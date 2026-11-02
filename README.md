@@ -2,7 +2,7 @@
 
 **Competition:** [ARC Prize 2026 — ARC-AGI-3 track](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3) (Kaggle code competition, closed Nov-02 2026 23:59Z)
 **Final result: 35.53 — team best**, fired on the last day and verified COMPLETE after a 9.9-hour scoring rerun.
-**Accounts:** dasshovon (gold lane) & Nabidnur abrar same team · **Mode:** CPU-only, two submission slots per day, leaderboard keeps the max.
+**Accounts:** dasshovon (gold lane) & Nabidnur abrar {main experimenter} same team · **Mode:** CPU-only, two submission slots per day, leaderboard keeps the max.
 
 ![The score journey](figures/fig01_score_journey.png)
 
