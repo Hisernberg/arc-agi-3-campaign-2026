@@ -1,0 +1,3 @@
+# `solve` — runbook
+
+Categorize-and-anchor agent. ARC-2: assign each public eval task (and, by features, each hidden task at run time) to a category (R6 families / size / multi-test), measure per-category solve rate and cost from the saved pools and logs, propose per-category budget caps and the anchored greedy selection rule (exact-verified family output → anchor; candidates consistent with the anchor first; attempt-2 = most-different). ARC-3: per game class, measure levels/actions/efficiency from the smoke histories, propose per-class PACE / TAIL_FADE and action-rule priors. Output: `analysis/categories/<date>.md` + code behind an offline gate.

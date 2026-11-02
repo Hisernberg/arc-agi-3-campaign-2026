@@ -1,0 +1,158 @@
+lane,date,ref,score,status,kernel,version,description
+gold_dasshovon,2026-10-04T13:26:15,56825089,27.38,complete,,,"super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09"
+gold_dasshovon,2026-10-04T13:27:12,56825114,25.84,complete,,,"super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09"
+gold_dasshovon,2026-10-05T04:49:21,56842664,26.66,complete,,,super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/
+gold_dasshovon,2026-10-05T18:17:34,56859016,26.34,complete,,,super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMP
+gold_dasshovon,2026-10-06T10:09:21,56877835,20.77,complete,,,"F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 gam"
+gold_dasshovon,2026-10-06T17:16:03,56886854,27.17,complete,,,Notebook 🔓 Fable & Astra Play ARC-3: Handbook + Harness | Version 2
+gold_dasshovon,2026-10-07T05:18:10,56900990,27.67,complete,,,"super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+gold_dasshovon,2026-10-07T06:02:13.377Z,56901959,29.21,complete,kragglenote2forwork/fable-astra-play-arc-3-handbook-harness,,
+gold_dasshovon,2026-10-08T07:08:12.703Z,56940861,23.65,complete,kragglenote2forwork/arc-agi-3-m2-top-submission,,Notebook arc-agi-3-m2-top-submission | Version 1
+gold_dasshovon,2026-10-08T09:36:07.323Z,56947228,,error,dasshovon/arc26-m2top-v1,,m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placehol
+gold_dasshovon,2026-10-09T05:58:10.897Z,56994560,33.50,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,"track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside mem"
+gold_dasshovon,2026-10-09T06:15:52.527Z,56995332,,error,dasshovon/arc26-m2top-v1,,m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers
+gold_dasshovon,2026-10-09T07:24:03.173Z,56998560,,error,dasshovon/arc26-m2top-v1,,m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers
+gold_dasshovon,2026-10-10T01:01:46.393Z,57026424,24.50,complete,kragglenote2forwork/arc26-b-dprime-v2b,,"10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork"
+gold_dasshovon,2026-10-10T18:56:52.387Z,57050666,32.05,complete,dasshovon/arc26-b-dprime-clean-dh,,"10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+gold_dasshovon,2026-10-11T00:22:14.417Z,57056539,30.35,complete,kragglenote2forwork/arc26-b-dprime-v2d,,"10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PAS"
+gold_dasshovon,2026-10-12T03:43:36.54Z,57094303,30.77,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending
+gold_dasshovon,2026-10-12T13:38:11.543Z,57108755,28.23,complete,dasshovon/arc26-b-dprime-clean-dh,,10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)
+gold_dasshovon,2026-10-13T03:43:24.043Z,57129298,28.03,complete,kragglenote2forwork/arc3-remaining-gpu-probe-20261012-v1,,
+gold_dasshovon,2026-10-13T16:42:53.097Z,57150301,28.16,complete,dasshovon/arc26-dh-e001-v1,,10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)
+gold_dasshovon,2026-10-14T01:50:55.533Z,57163088,29.83,complete,dasshovon/arc26-eis-recovery-dh,,"10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+gold_dasshovon,2026-10-14T05:11:01.637Z,57168017,30.05,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,
+gold_dasshovon,2026-10-15T04:41:30.993Z,57216531,26.03,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,
+gold_dasshovon,2026-10-16T06:39:48.043Z,57258538,26.47,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,
+gold_dasshovon,2026-10-17T05:41:02.083Z,57297300,32.25,complete,dasshovon/arc26-eis-recovery-dh,,10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)
+gold_dasshovon,2026-10-17T06:13:53.943Z,57298529,31.62,complete,kragglenote2forwork/arc3-eis-recovery,,"Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10"
+gold_dasshovon,2026-10-18T00:00:16.697Z,57329671,,error,dasshovon/arc26-eis-recovery-dh,,10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)
+gold_dasshovon,2026-10-18T00:12:16.75Z,57331028,28.83,complete,kragglenote2forwork/arc3-eis-recovery,,Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; f
+gold_dasshovon,2026-10-18T05:43:24.283Z,57340883,,error,dasshovon/arc26-eis-recovery-dh,,10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)
+gold_dasshovon,2026-10-18T06:40:40.807Z,57343317,,error,dasshovon/arc26-eis-recovery-dh,,10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)
+gold_dasshovon,2026-10-18T07:44:38.043Z,57345341,28.59,complete,dasshovon/arc26-eis-recovery-dh,,"10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+gold_dasshovon,2026-10-19T00:06:55.647Z,57373787,,error,dasshovon/arc26-eis15-dh,,"10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet tar"
+gold_dasshovon,2026-10-19T07:15:51.483Z,57387375,27.84,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,"10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next "
+gold_dasshovon,2026-10-19T07:16:59.917Z,57387404,30.16,complete,dasshovon/arc26-eis-recovery-dh,,"10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-speci"
+gold_dasshovon,2026-10-20T05:52:05.733Z,57424564,26.73,complete,kragglenote2forwork/arc26-a-apex-dlex-v1,,Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)
+gold_dasshovon,2026-10-20T05:52:16.743Z,57424569,19.99,complete,dasshovon/arc26-b-apex-dlex-v1,,Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A.
+gold_dasshovon,2026-10-21T05:03:20.143Z,57466626,22.33,complete,kragglenote2forwork/arc26-a-leviathan-v1,,Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (o
+gold_dasshovon,2026-10-21T05:03:26.043Z,57466630,22.47,complete,dasshovon/arc26-b-leviathan-v1,,"Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + "
+gold_dasshovon,2026-10-22T08:42:57.95Z,57517413,0.00,complete,dasshovon/arc26-b-memsolve-v1,,"Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+gold_dasshovon,2026-10-23T07:49:25.66Z,57553794,0.00,complete,kragglenote2forwork/arc26-b-dprime-clean-v1,,
+gold_dasshovon,2026-10-24T06:16:20.4Z,57584929,,error,dasshovon/arc26-b-dprime-fix-v1,,Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0.
+gold_dasshovon,2026-10-24T06:58:32.383Z,57585952,,error,kragglenote2forwork/arc26-a-dprime-fix-v1,,"Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+gold_dasshovon,2026-10-24T07:22:17.943Z,57586479,,error,kragglenote2forwork/arc26-a-dprime-fix-v1,,Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver
+gold_dasshovon,2026-10-24T07:56:39.707Z,57587298,,error,kragglenote2forwork/arc26-rerun-probe-v1,,"Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels."
+gold_dasshovon,2026-10-24T09:02:40.417Z,57588966,,error,dasshovon/arc26-b-dprime-fix-v1,,"Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/5758595"
+gold_dasshovon,2026-10-24T09:27:57.343Z,57589586,,error,dasshovon/arc26-b-dprime-fix-v1,,Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57
+gold_dasshovon,2026-10-24T11:30:01.07Z,57592755,,error,dasshovon/arc26-b-dprime-fix-v1,,Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; b
+gold_dasshovon,2026-10-24T12:45:01.1Z,57594680,26.47,complete,dasshovon/arc26-b-dprime-fix-v1,,Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; b
+gold_dasshovon,2026-10-25T11:17:09.953Z,57627860,0.00,complete,dasshovon/arc26-b-agi35-v1,,Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single
+gold_dasshovon,2026-10-26T08:31:03.44Z,57659975,0.00,complete,dasshovon/arc26-b-apex-v11,,Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds 
+gold_dasshovon,2026-10-27T04:20:13.85Z,57688736,0.00,complete,dasshovon/arc26-b-apex-v13,,Oct-27 apex-v13 v1 NEW code (D1 gold: Qwen3.8-27B-FP8 swap + D3 tgraph priors/pace/endgame + xpack tools heal + D2 + guard-v2; LB max)
+gold_dasshovon,2026-10-28T00:09:45.78Z,57717114,0.00,complete,dasshovon/arc26-b-apex-v14,,Oct-28 gold lane: apex-v14 (120-min cap + SLM + retry-3600 + qwen38-27b-fp8 + D2/D3 + dossier-v3)
+gold_dasshovon,2026-10-29T00:17:28.07Z,57752921,31.09,complete,dasshovon/arc26-goldfusion-v16-d-prime-solver-module-fix,,Oct-29 gold: GOLDFUSION v16 (eislab S14 carrier + D-prime solver + council + river + SNN/WM + SLM)
+gold_dasshovon,2026-10-30T00:05:12.14Z,57786043,28.09,complete,dasshovon/arc26-megafusion-v17-motion-tok-graft,,"Oct-30 gold: MEGAFUSION v17 MOTION_TOK (v16 31.09 proven chassis + 64 motion-primitive tokens, council/river/SNN/SLM, S14 keepalive armor)"
+gold_dasshovon,2026-10-31T00:05:13.087Z,57820410,28.93,complete,dasshovon/arc26-goldfusion-v16-d-prime-solver-module-fix,,"Oct-31 gold: GOLDFUSION v16 REDRAW (31.09 PB proven chassis, fresh stochastic draw of 27.76-34.42 band, S14 keepalive armor)"
+gold_dasshovon,2026-11-01T02:40:36.67Z,57858007,32.31,complete,dasshovon/arc26-megafusion-v18b-cards-fdigest,,"Nov-1 gold: MEGAFUSION gate-armed candidate (V0-V7 ALL GREEN, S14 keepalive armor, SCAN+ARM Task-75 selection)"
+gold_dasshovon,2026-11-02T03:09:25.4Z,57893187,35.53,complete,dasshovon/arc26-megafusion-v25-mount-heal,,"Nov-2 gold: MEGAFUSION gate-armed candidate (V0-V7 ALL GREEN, S14 keepalive armor, 15:30Z matrix freeze)"
+blackbox_koushikrudra,2026-08-10T19:22:06.647Z,55414711,0.95,complete,nabidnur/watch-out-something-is-comming,,"Notebook watch-out, something is comming | Version 6"
+blackbox_koushikrudra,2026-08-11T19:20:12.837Z,55440526,1.03,complete,nabidnur/watch-out-something-is-comming,,"Notebook watch-out, something is comming | Version 7"
+blackbox_koushikrudra,2026-08-12T05:35:56.22Z,55449894,1.02,complete,nabidnur/watch-out-something-is-comming,,
+blackbox_koushikrudra,2026-08-13T19:53:18.54Z,55490439,1.06,complete,nabidnur/watch-out-something-is-comming,,
+blackbox_koushikrudra,2026-08-14T10:32:25.817Z,55503378,1.15,complete,nabidnur/watch-out-something-is-comming,,
+blackbox_koushikrudra,2026-08-15T09:39:14.25Z,55524674,0.78,complete,nabidnur/watch-out-something-is-comming,,
+blackbox_koushikrudra,2026-08-16T11:24:58.003Z,55551512,1.13,complete,nabidnur/notebookb0c767c0c5,,Notebook notebookb0c767c0c5 | Version 1
+blackbox_koushikrudra,2026-08-18T11:24:24.517Z,55599717,1.46,complete,nabidnur/taaf-model-20260815-q38-p1,,Notebook taaf-model-20260815-q38-p1 | Version 2
+blackbox_koushikrudra,2026-08-19T20:11:52.943Z,55631154,1.81,complete,nabidnur/notebookfef7632294,,Notebook notebookfef7632294 | Version 1
+blackbox_koushikrudra,2026-08-21T16:22:34.16Z,55673066,1.43,complete,nabidnur/notebookfef7632294,,
+blackbox_koushikrudra,2026-08-24T03:37:32.327Z,55731762,1.08,complete,nabidnur/notebookfef7632294,,
+blackbox_koushikrudra,2026-08-25T05:29:45.103Z,55762125,0.95,complete,nabidnur/notebookfef7632294,,Notebook notebookfef7632294 | Version 3
+blackbox_koushikrudra,2026-08-30T18:28:29.237Z,55897736,1.65,complete,nabidnur/notebookfef7632294,,Notebook notebookfef7632294 | Version 6
+blackbox_koushikrudra,2026-08-31T18:53:06.863Z,55922395,1.96,complete,/submissions/55922395/55922395.raw,,Notebook 💋 ARC real AGI solution >_< | Version 1
+blackbox_koushikrudra,2026-09-01T19:10:21.44Z,55946375,3.11,complete,nabidnur/duck-qwen3-8-flash-next-nvfp4-mtp,,
+blackbox_koushikrudra,2026-09-02T06:32:27.257Z,55956286,1.83,complete,nabidnur/duck-qwen3-8-flash-next-nvfp4-mtp,,
+blackbox_koushikrudra,2026-09-08T18:35:02.04Z,56104794,2.54,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-09T10:23:01.04Z,56120167,3.67,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-10T08:02:53.723Z,56140365,1.94,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-11T19:49:08.96Z,56171907,3.59,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-12T16:47:34.267Z,56189610,2.42,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-13T12:19:19.953Z,56206740,2.73,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-15T01:35:44.217Z,56242532,3.68,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-18T19:09:18.44Z,56338388,3.35,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-19T16:43:45.38Z,56365831,2.44,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-21T03:07:23.377Z,56413976,2.54,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-22T18:29:38.523Z,56471654,2.98,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-25T17:52:31.577Z,56557001,2.29,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-29T06:25:38.933Z,56665271,3.24,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-09-30T17:24:55.38Z,56714461,2.55,complete,koushikrudra/duck-not-a-cock,,
+blackbox_koushikrudra,2026-10-01T09:59:05.15Z,56748874,26.53,complete,koushikrudra/arc-agi-3-milestone-2-solution,,
+blackbox_koushikrudra,2026-10-02T02:14:37.3Z,56763714,25.61,complete,koushikrudra/arc-agi-3-milestone-2-solution,,
+blackbox_koushikrudra,2026-10-03T01:49:01.067Z,56786939,27.22,complete,koushikrudra/arc-agi-3-milestone-2-solution,,
+blackbox_koushikrudra,2026-10-04T03:32:11.51Z,56813120,26.89,complete,koushikrudra/arc-agi-3-milestone-2-solution,,
+blackbox_koushikrudra,2026-10-05T16:10:42.64Z,56856536,25.47,complete,koushikrudra/arc-agi-3-milestone-2-solution,,
+blackbox_koushikrudra,2026-10-11T17:52:01.53Z,57081722,,error,/submissions/57081722/57081722.raw,,
+blackbox_koushikrudra,2026-10-12T02:01:20.82Z,57091970,,error,/submissions/57091970/57091970.raw,,
+blackbox_koushikrudra,2026-10-15T09:51:01.287Z,57225596,,error,koushikrudra/arc-3-nabi,,
+blackbox_koushikrudra,2026-10-16T06:14:08.46Z,57257762,30.59,complete,koushikrudra/arc3-target40-engineered-harness,,
+blackbox_koushikrudra,2026-10-17T13:14:44.717Z,57312388,21.92,complete,koushikrudra/arc3-target40-engineered-harness,,
+blackbox_koushikrudra,2026-10-18T11:57:23.44Z,57353150,28.42,complete,koushikrudra/arc3-target40-engineered-harness,,
+blackbox_koushikrudra,2026-10-23T05:39:38.553Z,57550603,0.00,complete,koushikrudra/arc3-target40-engineered-harness,,
+blackbox_koushikrudra,2026-10-25T05:39:17.43Z,57618370,29.54,complete,koushikrudra/arc3-target40-engineered-harness,,
+blackbox_koushikrudra,2026-10-27T04:22:45.62Z,57688789,27.43,complete,koushikrudra/arc3-target40-engineered-harness,,"Oct-27 variance redraw v3 (same-code reroll of frozen 358880096 line: PB 30.59 Oct-16, 29.54 Oct-25; gateway dice sd 12.8; LB max)"
+blackbox_koushikrudra,2026-10-28T00:07:38.183Z,57716963,33.86,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,"Oct-28 Blackbox: eislab S13/S14 port v1 (keepalive armor, mean 33.7 sd 1.7)"
+blackbox_koushikrudra,2026-10-29T00:16:09.41Z,57752885,30.38,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,Oct-29 blackbox: eislab S13/S14 redraw (max-of-N farm on 34.98-class line)
+blackbox_koushikrudra,2026-10-30T00:15:40.747Z,57786615,30.86,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,"Oct-30 Blackbox: eislab S13/S14 farm draw 4 (33.86 PB config, mean 33.7 sd 1.7, keepalive armor, redraw variance play)"
+blackbox_koushikrudra,2026-10-31T00:15:34.243Z,57820946,28.74,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,"Oct-31 Blackbox: eislab S13/S14 farm draw 5 (33.86 PB config, mean 33.7 sd 1.7, keepalive armor, redraw variance play)"
+blackbox_koushikrudra,2026-11-01T00:15:52.25Z,57854884,31.98,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,"Nov-1 Blackbox: eislab S13/S14 farm draw 6 (33.86 PB config, mean 33.7 sd 1.7, keepalive armor, redraw variance play)"
+blackbox_koushikrudra,2026-11-02T00:16:06.73Z,57888625,32.94,complete,koushikrudra/arc3-eislab-s13-s14-k4s13-port,,"Nov-2 Blackbox: eislab S13/S14 farm draw 7 (33.86 PB config, mean 30.96 sd 2.15 n=5, keepalive armor, redraw variance play)"
+constellation_uradkr_team,2026-11-01T00:55:26.557Z,57855808,36.89,complete,uradkr/arc3-hfx-15-original,,"Nov1 hfx-15 original: H15 SPX + refit1 MTP + KA + out16k, packet bf830b62 (user plan: slot for the original). No score guarantee."
+constellation_uradkr_team,2026-10-30T23:29:42.967Z,57819343,16.69,complete,uradkr/arc3-h15-spx-guards-stepv-prod-20261030,,Oct31 M2 refit1 H15 SPX guards+step-verification; no VOT; original pinned environment. No score guarantee.
+constellation_uradkr_team,2026-10-29T23:30:12.863Z,57784947,34.32,complete,uradkr/arc3-h15-spx-vot-rehearsal-20261029,,H15 SPX production + refit1 MTP drafter + KA keep-alive + setup 60 min + readiness-budget fix (KA2) + SCHED-0001 VOT slot gate. 110-game 9-h rehearsal: control 
+constellation_uradkr_team,2026-10-28T23:59:11.593Z,57751641,36.18,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 2
+constellation_uradkr_team,2026-10-27T21:31:13Z,57713586,32.46,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-26T07:04:08.61Z,57657740,34.83,complete,leeheewon01/eislab-m2-st-s13-s14-k4s13,,
+constellation_uradkr_team,2026-10-26T01:10:51.18Z,57648729,0.00,complete,uradkr/arc3-h15-spx-refit1-ka-prod-20261026,,"H15 SPX production + refit1 MTP drafter (now a Kaggle Model, loads in 15 s) + SPX_KA startup keep-alive (RESET every 10 min from 13 min until READY) + setup cap"
+constellation_uradkr_team,2026-10-25T15:56:18.41Z,57635541,28.66,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 2
+constellation_uradkr_team,2026-10-25T09:38:49.357Z,57625134,31.38,complete,leeheewon01/eislab-m2-st-s13-s14-k4s13,,
+constellation_uradkr_team,2026-10-24T16:29:53.283Z,57600435,34.98,complete,leeheewon01/eislab-m2-st-s13-s14-k4s13,,
+constellation_uradkr_team,2026-10-24T13:53:39.66Z,57596414,24.34,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-24T07:18:18.19Z,57586398,31.74,complete,uradkr/arc3-h15-spx-refit1-prod-20261021,,"H15 SPX production + refit1 MTP drafter, same version; automatic same-day retry 2 after Kaggle mount-outage ERRORs (57575352, 57577549). Packet a484a790. User-a"
+constellation_uradkr_team,2026-10-24T05:38:12.54Z,57583887,,error,uradkr/arc3-h15-spx-refit1-prod-20261021,,"H15 SPX production + refit1 MTP drafter, same version; automatic same-day retry 1 after Kaggle mount-outage ERRORs (57575352, 57577549). Packet a484a790. User-a"
+constellation_uradkr_team,2026-10-24T01:04:03.22Z,57577549,,error,uradkr/arc3-h15-spx-refit1-prod-20261021,,"H15 SPX production + refit1 MTP drafter, same version resubmitted after Kaggle-side ERROR on 57575352 (same UTC day). Packet a484a790. User-approved 2026-10-24 "
+constellation_uradkr_team,2026-10-24T00:01:28.643Z,57575352,,error,uradkr/arc3-h15-spx-refit1-prod-20261021,,"H15 SPX production (h3649 streams15 family, LB 33.83) + refit1 MTP drafter (ursuciprian dense re-fit transplanted into the albucino INT4 drafter; test25 accept "
+constellation_uradkr_team,2026-10-23T15:27:08.847Z,57565293,25.34,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-23T11:10:18.217Z,57558674,33.43,complete,leeheewon01/eislab-m2-st-s13-s14-k4s13,,k4s13 + S13 (SEG/TRACE/ANIM/TIMELIMIT) + S14 (keep-alive RESET every 5 min while server loads; grace 3000 s if not ready); nb sha eb50e9bf; commit v1 36 lv / 31
+constellation_uradkr_team,2026-10-23T07:34:14.01Z,57553483,22.79,complete,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, second draw (pair with 57539988)"
+constellation_uradkr_team,2026-10-22T22:39:48.25Z,57539988,26.33,complete,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T22:14:15.737Z,57539531,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T21:53:47.103Z,57539161,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T21:33:17.997Z,57538808,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T21:12:48.43Z,57538377,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T20:52:18.06Z,57537915,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle platform errors today."
+constellation_uradkr_team,2026-10-22T19:12:34.667Z,57535825,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle model-mount outage (system errors on 57533489, 57534338)."
+constellation_uradkr_team,2026-10-22T18:42:05.667Z,57535104,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, retry after Kaggle model-mount outage (system errors on 57533489, 57534338)."
+constellation_uradkr_team,2026-10-22T18:09:51.023Z,57534338,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1, resubmitted after a Kaggle system error on 57533489 (same version, same day). M2 V1 + keep-alive + runtime anchor + checks; aging off, prompt off."
+constellation_uradkr_team,2026-10-22T17:37:59.31Z,57533489,,error,lowasitgoes/arc-agi-3-bank-core-m2v1,,"bank-core v1: M2 V1 + keep-alive + runtime anchor + checks; aging off, prompt off. Lineage anchor for same-days reads. Save & Run clean (5 bank checks, anchored"
+constellation_uradkr_team,2026-10-21T17:08:52.04Z,57491024,24.97,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 2
+constellation_uradkr_team,2026-10-21T14:15:42.027Z,57485559,31.80,complete,leeheewon01/eislab-m2-st-s12-k4s13,,
+constellation_uradkr_team,2026-10-20T16:13:05.113Z,57445351,25.38,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-20T03:50:53.877Z,57420776,27.98,complete,uradkr/arc3-spx-recovery-1a7a6825e8494c878537464126d0ef40,,
+constellation_uradkr_team,2026-10-20T00:01:16.6Z,57413303,,error,uradkr/arc3-spx-recovery-1a7a6825e8494c878537464126d0ef40,,"anchor: exact H36.49 v1 (sv357236247), 3rd draw (drift test). User-approved 2026-10-20 KST."
+constellation_uradkr_team,2026-10-19T23:46:04.787Z,57412755,20.50,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-19T03:20:35.327Z,57380045,28.91,complete,uradkr/arc3-h15-lnb-prod-20261019,,"H15 (h3649 streams15 prod, LB 33.83) + URAD LNB level-start brief (reframe + novelty brief + harness re-test of earlier-inert actions; fail-open). Packet 3d9dd8"
+constellation_uradkr_team,2026-10-18T23:17:17.06Z,57371856,23.16,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-18T18:02:23.347Z,57364231,33.26,complete,leeheewon01/eislab-m2-st-s12-k4s13,,
+constellation_uradkr_team,2026-10-17T23:57:42.553Z,57329581,28.48,complete,uradkr/arc3-final-prod-2798d14a76254bab,,
+constellation_uradkr_team,2026-10-17T15:31:48.833Z,57316481,33.01,complete,leeheewon01/eislab-m2-st-s12-k4s15n3,,"N3 k4s15n3: k4s13 + 15 streams (gate/MAXREQ/CUDA graphs 15) + SGLANG_MM_PRECOMPUTE_HASH=1, no priority values; nb sha 00c3fc8a; commit PASS 10 games 49 levels 5"
+constellation_uradkr_team,2026-10-16T17:10:12.733Z,57276953,26.03,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-16T05:42:42.473Z,57256814,32.17,complete,uradkr/arc3-h3649-mmvg-prod-20261015,,mmvg resubmit after Kaggle system error (57247424): streams15 + SGLANG_MM_PRECOMPUTE_HASH=1 + value-weighted gate
+constellation_uradkr_team,2026-10-16T00:01:36.153Z,57247424,,error,uradkr/arc3-h3649-mmvg-prod-20261015,,mmvg: streams15 + SGLANG_MM_PRECOMPUTE_HASH=1 + value-weighted gate priority
+constellation_uradkr_team,2026-10-15T18:19:38.193Z,57240430,33.63,complete,leeheewon01/eislab-m2-st-s12-k4s13,,
+constellation_uradkr_team,2026-10-15T14:22:09.91Z,57233704,24.25,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 2
+constellation_uradkr_team,2026-10-15T03:48:27.183Z,57215232,33.83,complete,uradkr/arc3-h3649-streams15-prod-20261015,,"h3649 + 15 active streams (public25 54.55, +5% tok/s); goal run"
+constellation_uradkr_team,2026-10-14T18:52:36.993Z,57192606,29.57,complete,uradkr/arc3-spx-recovery-1a7a6825e8494c878537464126d0ef40,,
+constellation_uradkr_team,2026-10-13T23:05:35.273Z,57158336,35.13,complete,uradkr/arc3-h3649-scout180-20261014-146820aabc0cfd76,,arc3-h3649-scout180-20261014-146820aabc0cfd76 | native hold180; CPU checked; regression risk accepted; v1
+constellation_uradkr_team,2026-10-13T22:47:10.497Z,57157956,29.52,complete,gyuyoungpark09/arc3-franzen-m2-ours-v2,,Trial 1
+constellation_uradkr_team,2026-10-13T03:37:28.027Z,57129158,13.04,complete,apienss/notebooke59d0ab1a1,,
+constellation_uradkr_team,2026-10-12T23:20:25.603Z,57121856,33.38,complete,uradkr/arc3-tokenpriority-only-20261013-4b49ce610d763a8f,,arc3-tokenpriority-only-20261013-4b49ce610d763a8f | priority-only; CPU validated; gameplay unmeasured; v1

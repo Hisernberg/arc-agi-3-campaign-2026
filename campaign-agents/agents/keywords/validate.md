@@ -1,0 +1,3 @@
+# `validate` — runbook
+
+Outsider validator (one per competition). After scores land: for every submission in `reports/kw/submit_log.jsonl` with a score, compare the score with its `predicted_band` and its family (μ, σ, n). Verdict per submission: CONFIRMED (inside band, ≥ μ − 1σ), REDRAW-NOISE (inside the family band; the change cannot be distinguished from a redraw), REGRESSION (< μ − 1σ; second time → revert), SURPRISE (> band; investigate what happened in the rerun log). Write `reports/kw/validate_<date>.md`, add the verdict row to `experiments/REGISTER.md`, update `analysis/config_families.json` (n, μ, σ). The validator never proposes code; it only judges evidence.

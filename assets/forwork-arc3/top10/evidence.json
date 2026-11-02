@@ -1,0 +1,915 @@
+{
+  "schema": "arc3_top10_research_evidence.v1",
+  "model_runs_this_analysis": 0,
+  "gpu_runs_this_analysis": 0,
+  "lineage": {
+    "clean_path": "sources/raw/checkouts/Hisernberg__arc-agi-3-campaign/track-b/2026-10-09/kernel/arc26-b-dprime-clean-v1.ipynb",
+    "v2d_path": "arc3/candidates/arc3_v2d_reproduction.ipynb",
+    "clean_canonical_hash": "19cb107192799b1569070599edc4aba54ea962f56ee7b7fd113e28dd03c6d397",
+    "v2d_canonical_hash": "71164d764df294e70e38e06bc125a8c1bfb706ff98de0a89d93447821e1e8bd3",
+    "clean_code_cells": 14,
+    "v2d_code_cells": 15,
+    "checks": {
+      "harness_patch_byte_identical": true,
+      "dprime_module_byte_identical": true,
+      "setup_env_assignments_ast_identical": true,
+      "serving_CFG_ast_identical": true,
+      "benchmark_scored_override_body_ast_identical": true,
+      "clean_rerun_soft_end_none_present": true,
+      "v2d_rerun_soft_end_none_present": true,
+      "v2d_hard_stop_disabled": true,
+      "production_manifest_matches_v2d": true
+    },
+    "components": [
+      {
+        "component": "harness patch",
+        "clean_cell": 5,
+        "v2d_cell": 5,
+        "clean_sha256": "6fdcd1ae7445c0cfc26eec1047363aa0c196c867d289a35b6f64403b5a43dce2",
+        "v2d_sha256": "6fdcd1ae7445c0cfc26eec1047363aa0c196c867d289a35b6f64403b5a43dce2",
+        "byte_identical": true
+      },
+      {
+        "component": "environment/path setup",
+        "clean_cell": 7,
+        "v2d_cell": 7,
+        "clean_sha256": "fa4af0d420026363466bc28bd010eb6fc1fa476eac1bb8bf627ce85dc344b64c",
+        "v2d_sha256": "263ccbbe1a37024a82398450f5eec4f096ba0846ede8e644a7f1ea91341cd7e3",
+        "byte_identical": false
+      },
+      {
+        "component": "serving launcher",
+        "clean_cell": 15,
+        "v2d_cell": 15,
+        "clean_sha256": "a7b6a99f1b918fbdefb13272510665d2a918dab50ceb1bc2cf65d00972378f1d",
+        "v2d_sha256": "ac54635b81cd238d79f9984da7e319ff8566d1474541108c7d3d3bdebd186d84",
+        "byte_identical": false
+      },
+      {
+        "component": "benchmark setup",
+        "clean_cell": 19,
+        "v2d_cell": 19,
+        "clean_sha256": "610ddbff7da7ac9fd7bf49a2bb9c823bf7c75ba6d62712c8f6fa49c4888ed416",
+        "v2d_sha256": "bb6ef24683f94eb558d7fba098c114ba0fcec2147dc0571da6203d7bd421760a",
+        "byte_identical": false
+      },
+      {
+        "component": "D-prime",
+        "clean_cell": 23,
+        "v2d_cell": 23,
+        "clean_sha256": "7e04e8042a9a47688e07deb8785299e4690b6a0641b47da6fee531b017665e76",
+        "v2d_sha256": "7e04e8042a9a47688e07deb8785299e4690b6a0641b47da6fee531b017665e76",
+        "byte_identical": true
+      },
+      {
+        "component": "benchmark execution",
+        "clean_cell": 24,
+        "v2d_cell": 25,
+        "clean_sha256": "6d146cee4a47412724e60812322c8d9f33b56fa3ba2ad1f07c4fea81326ac6f2",
+        "v2d_sha256": "0b1ddb7d671136077cb1e2a794e7705ae3a791c95a346cc5b204f479d17ca582",
+        "byte_identical": false
+      }
+    ],
+    "scope": "Static comparison of executable sources and selected AST bodies; not complete semantic equivalence or a score test."
+  },
+  "fresh_public_sources": [
+    {
+      "ref": "amatlas/dfranzen-fork-d-prime",
+      "code_cells": 12,
+      "canonical_hash": "8cc94d22874e14aaa31ac096da8a39b47fd7d0bd58fbf0fb88105a437692fab2",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/amatlas__dfranzen-fork-d-prime/dfranzen-fork-d-prime.ipynb"
+    },
+    {
+      "ref": "desihnurseha/kinetic-learning-by-playing-v8",
+      "code_cells": 12,
+      "canonical_hash": "2e5d303f514225cda5634950da62b7795f368fd9090d1d19e1d7836953599621",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/desihnurseha__kinetic-learning-by-playing-v8/kinetic-learning-by-playing-v8.ipynb"
+    },
+    {
+      "ref": "dfranzen/arc-agi-3-milestone-2-solution",
+      "code_cells": 11,
+      "canonical_hash": "979ec1b8c8beec9bb6b74ec290337ea557f36b3fa78a53248fc58cccf993238e",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/dfranzen__arc-agi-3-milestone-2-solution/arc-agi-3-milestone-2-solution.ipynb"
+    },
+    {
+      "ref": "feili6458/arc-agi-3-milestone-2-solution",
+      "code_cells": 11,
+      "canonical_hash": "979ec1b8c8beec9bb6b74ec290337ea557f36b3fa78a53248fc58cccf993238e",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/feili6458__arc-agi-3-milestone-2-solution/arc-agi-3-milestone-2-solution.ipynb"
+    },
+    {
+      "ref": "heliosli/try-merging-it-you-might-get-lucky-and-win-gold",
+      "code_cells": 11,
+      "canonical_hash": "6d8cd1db24a7f5381f0f125af21901401c2748ba79ba5d0884405cc7229e3c5b",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/heliosli__try-merging-it-you-might-get-lucky-and-win-gold/try-merging-it-you-might-get-lucky-and-win-gold.ipynb"
+    },
+    {
+      "ref": "jinhaozhu2/arc-agi-3-milestone-2-solution",
+      "code_cells": 12,
+      "canonical_hash": "af878533c6fd7c301d984e17efa8eefba71555b4a510c062a2796772f2dd9f29",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/jinhaozhu2__arc-agi-3-milestone-2-solution/arc-agi-3-milestone-2-solution.ipynb"
+    },
+    {
+      "ref": "leoprovorov/fable-astra-play-arc-3-handbook-harness",
+      "code_cells": 12,
+      "canonical_hash": "a4d0cc6a739c15e0449621ea71888845d7c6ecad49d5bcc92099626f98a34365",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/leoprovorov__fable-astra-play-arc-3-handbook-harness/fable-astra-play-arc-3-handbook-harness.ipynb"
+    },
+    {
+      "ref": "prvsiyan/arc-agi-3-stock-taaf-action7-shadow",
+      "code_cells": 17,
+      "canonical_hash": "e7b1998ade70fc367245d5a547ffe24db39af04931cb47e4fe28256323d769d7",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/prvsiyan__arc-agi-3-stock-taaf-action7-shadow/arc-agi-3-stock-taaf-action7-shadow.ipynb"
+    },
+    {
+      "ref": "shiiin9/affectify-arc-31-54-in-a-single-sub",
+      "code_cells": 13,
+      "canonical_hash": "03ee6ffa7ddd76fb194570f580110a8a6a28fb213c50bf1a39b85fed098bbf0d",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/shiiin9__affectify-arc-31-54-in-a-single-sub/affectify-arc-31-54-in-a-single-sub.ipynb"
+    },
+    {
+      "ref": "sigeward/arc-agi-3-milestone-2-solution",
+      "code_cells": 12,
+      "canonical_hash": "5c0cd1f5a4fbee1c7c38d6bbbc43b90d3ffbe9e365970aa976b2c885af996027",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/sigeward__arc-agi-3-milestone-2-solution/arc-agi-3-milestone-2-solution.ipynb"
+    },
+    {
+      "ref": "skarin/arc-agi-3-27-80-lb-100-trajectory-audit",
+      "code_cells": 19,
+      "canonical_hash": "550942fcb759704020e2ac97636142aa5a89e2e65d59589de6b28c5db5041437",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/skarin__arc-agi-3-27-80-lb-100-trajectory-audit/arc-agi-3-27-80-lb-100-trajectory-audit.ipynb"
+    },
+    {
+      "ref": "spark328/arc-prize-2026-arc-agi-3-franzen-v1",
+      "code_cells": 11,
+      "canonical_hash": "6d8cd1db24a7f5381f0f125af21901401c2748ba79ba5d0884405cc7229e3c5b",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/spark328__arc-prize-2026-arc-agi-3-franzen-v1/arc-prize-2026-arc-agi-3-franzen-v1.ipynb"
+    },
+    {
+      "ref": "sujanmajhisuzan/arc-agi-3-m2-top-submission",
+      "code_cells": 11,
+      "canonical_hash": "f21c81878f9308fbe658bb75f5e545ae727588f816809650492bb0e4c758d2b3",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/sujanmajhisuzan__arc-agi-3-m2-top-submission/arc-agi-3-m2-top-submission.ipynb"
+    },
+    {
+      "ref": "vladimiryakunin/df-wm",
+      "code_cells": 12,
+      "canonical_hash": "3820e772f14f54878435edaa3d3828c47d22a309be2fc1b6c809613833c0d3e3",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/vladimiryakunin__df-wm/df-wm.ipynb"
+    },
+    {
+      "ref": "zhangyues0000/arc-agi-3-m2-franzen-fork",
+      "code_cells": 11,
+      "canonical_hash": "d8ec800e9a262491ff3943ec28de69621655923eec0cf677ce8e033603f90c1f",
+      "previous_latest_code_identical": true,
+      "fresh_path": "sources/raw/daily/2026-10-12/arc3/notebooks/zhangyues0000__arc-agi-3-m2-franzen-fork/arc-agi-3-m2-franzen-fork.ipynb"
+    }
+  ],
+  "saved_game_runs": 45,
+  "saved_level_rows": 325,
+  "external_replicates": {
+    "protocol": {
+      "games": 25,
+      "replicates": 4,
+      "harness_concurrency": 100,
+      "server_concurrency": 10,
+      "per_game_cap_seconds": 29018,
+      "job_runtime_seconds": 29456.822351
+    },
+    "pass_observations": [
+      {
+        "pass_id": 0,
+        "games": 25,
+        "public25_mean_score": 45.80393014455235,
+        "levels_cleared": 102
+      },
+      {
+        "pass_id": 1,
+        "games": 25,
+        "public25_mean_score": 45.5885354034618,
+        "levels_cleared": 106
+      },
+      {
+        "pass_id": 2,
+        "games": 25,
+        "public25_mean_score": 47.45733624590528,
+        "levels_cleared": 104
+      },
+      {
+        "pass_id": 3,
+        "games": 25,
+        "public25_mean_score": 47.12234423036811,
+        "levels_cleared": 105
+      }
+    ],
+    "observed_pass_sd": 0.9343254290683372,
+    "game_profile": [
+      {
+        "game": "ar25",
+        "replicates": 4,
+        "mean_score": 85.41666666666667,
+        "min_score": 41.66666666666667,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          8,
+          8,
+          8,
+          5
+        ],
+        "actions": [
+          453,
+          345,
+          292,
+          207
+        ]
+      },
+      {
+        "game": "bp35",
+        "replicates": 4,
+        "mean_score": 1.1780864197530865,
+        "min_score": 0.4839506172839506,
+        "max_score": 2.2222222222222223,
+        "level_clear_counts": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          66,
+          72,
+          54,
+          92
+        ]
+      },
+      {
+        "game": "cd82",
+        "replicates": 4,
+        "mean_score": 81.20317645297483,
+        "min_score": 58.62118474824098,
+        "max_score": 99.41666736749187,
+        "level_clear_counts": [
+          6,
+          6,
+          6,
+          6
+        ],
+        "actions": [
+          185,
+          237,
+          157,
+          197
+        ]
+      },
+      {
+        "game": "cn04",
+        "replicates": 4,
+        "mean_score": 26.190476190476186,
+        "min_score": 4.761904761904762,
+        "max_score": 47.61904761904761,
+        "level_clear_counts": [
+          4,
+          1,
+          1,
+          4
+        ],
+        "actions": [
+          231,
+          71,
+          52,
+          211
+        ]
+      },
+      {
+        "game": "dc22",
+        "replicates": 4,
+        "mean_score": 42.51499118165785,
+        "min_score": 28.57142857142857,
+        "max_score": 47.61904761904761,
+        "level_clear_counts": [
+          4,
+          4,
+          4,
+          3
+        ],
+        "actions": [
+          367,
+          334,
+          334,
+          279
+        ]
+      },
+      {
+        "game": "ft09",
+        "replicates": 4,
+        "mean_score": 86.9047619047619,
+        "min_score": 47.61904761904761,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          6,
+          4,
+          6,
+          6
+        ],
+        "actions": [
+          82,
+          131,
+          87,
+          146
+        ]
+      },
+      {
+        "game": "g50t",
+        "replicates": 4,
+        "mean_score": 9.24505868815967,
+        "min_score": 0.0,
+        "max_score": 15.551663324067253,
+        "level_clear_counts": [
+          2,
+          2,
+          0,
+          3
+        ],
+        "actions": [
+          164,
+          151,
+          51,
+          607
+        ]
+      },
+      {
+        "game": "ka59",
+        "replicates": 4,
+        "mean_score": 18.793527108575184,
+        "min_score": 3.571428571428571,
+        "max_score": 40.11892857142857,
+        "level_clear_counts": [
+          1,
+          5,
+          3,
+          2
+        ],
+        "actions": [
+          99,
+          324,
+          319,
+          158
+        ]
+      },
+      {
+        "game": "lf52",
+        "replicates": 4,
+        "mean_score": 1.8181818181818181,
+        "min_score": 1.8181818181818181,
+        "max_score": 1.8181818181818181,
+        "level_clear_counts": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "actions": [
+          101,
+          54,
+          90,
+          95
+        ]
+      },
+      {
+        "game": "lp85",
+        "replicates": 4,
+        "mean_score": 100.0,
+        "min_score": 100.0,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          8,
+          8,
+          8,
+          8
+        ],
+        "actions": [
+          183,
+          144,
+          116,
+          100
+        ]
+      },
+      {
+        "game": "ls20",
+        "replicates": 4,
+        "mean_score": 26.883119787759885,
+        "min_score": 16.343584656084655,
+        "max_score": 37.91592032224734,
+        "level_clear_counts": [
+          3,
+          4,
+          4,
+          5
+        ],
+        "actions": [
+          367,
+          383,
+          412,
+          543
+        ]
+      },
+      {
+        "game": "m0r0",
+        "replicates": 4,
+        "mean_score": 46.42195767195767,
+        "min_score": 0.0,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          2,
+          5,
+          6,
+          0
+        ],
+        "actions": [
+          150,
+          318,
+          262,
+          123
+        ]
+      },
+      {
+        "game": "r11l",
+        "replicates": 4,
+        "mean_score": 82.14285714285714,
+        "min_score": 28.57142857142857,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          6,
+          6,
+          3,
+          6
+        ],
+        "actions": [
+          120,
+          92,
+          92,
+          104
+        ]
+      },
+      {
+        "game": "re86",
+        "replicates": 4,
+        "mean_score": 62.914568661142006,
+        "min_score": 57.21383020012357,
+        "max_score": 77.77777777777779,
+        "level_clear_counts": [
+          6,
+          6,
+          6,
+          7
+        ],
+        "actions": [
+          478,
+          582,
+          473,
+          579
+        ]
+      },
+      {
+        "game": "s5i5",
+        "replicates": 4,
+        "mean_score": 23.86034786571236,
+        "min_score": 1.4172335600907031,
+        "max_score": 58.333333333333336,
+        "level_clear_counts": [
+          1,
+          4,
+          2,
+          6
+        ],
+        "actions": [
+          56,
+          224,
+          99,
+          417
+        ]
+      },
+      {
+        "game": "sb26",
+        "replicates": 4,
+        "mean_score": 93.22870160908923,
+        "min_score": 79.38872933885123,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          8,
+          8,
+          8,
+          8
+        ],
+        "actions": [
+          146,
+          215,
+          153,
+          158
+        ]
+      },
+      {
+        "game": "sc25",
+        "replicates": 4,
+        "mean_score": 19.597987092037258,
+        "min_score": 0.0,
+        "max_score": 27.903732565782008,
+        "level_clear_counts": [
+          4,
+          4,
+          3,
+          0
+        ],
+        "actions": [
+          423,
+          430,
+          183,
+          99
+        ]
+      },
+      {
+        "game": "sk48",
+        "replicates": 4,
+        "mean_score": 0.0,
+        "min_score": 0.0,
+        "max_score": 0.0,
+        "level_clear_counts": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "actions": [
+          129,
+          37,
+          39,
+          70
+        ]
+      },
+      {
+        "game": "sp80",
+        "replicates": 4,
+        "mean_score": 13.095238095238095,
+        "min_score": 4.761904761904762,
+        "max_score": 28.57142857142857,
+        "level_clear_counts": [
+          2,
+          1,
+          3,
+          1
+        ],
+        "actions": [
+          105,
+          61,
+          118,
+          75
+        ]
+      },
+      {
+        "game": "su15",
+        "replicates": 4,
+        "mean_score": 27.77777777777778,
+        "min_score": 13.333333333333334,
+        "max_score": 62.22222222222222,
+        "level_clear_counts": [
+          3,
+          4,
+          7,
+          3
+        ],
+        "actions": [
+          129,
+          212,
+          150,
+          202
+        ]
+      },
+      {
+        "game": "tn36",
+        "replicates": 4,
+        "mean_score": 53.517857142857146,
+        "min_score": 3.571428571428571,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          7,
+          2,
+          1,
+          7
+        ],
+        "actions": [
+          222,
+          155,
+          56,
+          280
+        ]
+      },
+      {
+        "game": "tr87",
+        "replicates": 4,
+        "mean_score": 92.30550560579287,
+        "min_score": 71.42857142857143,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          6,
+          6,
+          5,
+          6
+        ],
+        "actions": [
+          273,
+          232,
+          270,
+          342
+        ]
+      },
+      {
+        "game": "tu93",
+        "replicates": 4,
+        "mean_score": 83.74256032789232,
+        "min_score": 68.77050840061904,
+        "max_score": 93.5613769368755,
+        "level_clear_counts": [
+          9,
+          8,
+          9,
+          9
+        ],
+        "actions": [
+          274,
+          233,
+          272,
+          355
+        ]
+      },
+      {
+        "game": "vc33",
+        "replicates": 4,
+        "mean_score": 80.35714285714286,
+        "min_score": 21.428571428571427,
+        "max_score": 100.0,
+        "level_clear_counts": [
+          3,
+          7,
+          7,
+          7
+        ],
+        "actions": [
+          147,
+          231,
+          302,
+          288
+        ]
+      },
+      {
+        "game": "wa30",
+        "replicates": 4,
+        "mean_score": 3.2153645833333333,
+        "min_score": 1.7503472222222223,
+        "max_score": 6.666666666666667,
+        "level_clear_counts": [
+          1,
+          1,
+          2,
+          1
+        ],
+        "actions": [
+          110,
+          250,
+          275,
+          232
+        ]
+      }
+    ],
+    "scope": "External four passes share a 100-game queue and 10-stream server. Descriptive public-game variation, not independent own hidden-score draws."
+  },
+  "prior_local": {
+    "effort_router": {
+      "source_path": "/home/urad/arc38_adaptive_effort_20260903/router_v1/metrics.json",
+      "source_sha256": "c7df128cd2cc28a232b8a469948e79b79486f3d7f9b60af5ccba5eb804c3e698",
+      "promotion_gate": {
+        "meaning": "router-calibration-only; not a score or Kaggle promotion",
+        "requires_live_paired_ab_before_runtime_use": true,
+        "status": "FAIL"
+      },
+      "seed": 20260903,
+      "llm_weights_modified": false,
+      "metrics": {
+        "test": {
+          "groups": 4,
+          "model": {
+            "count": 85,
+            "exact_accuracy": 0.611764705882353,
+            "mean_ordinal_cost": 0.8117647058823529,
+            "undercall_rate": 0.08235294117647059
+          },
+          "rule": {
+            "count": 85,
+            "exact_accuracy": 0.5882352941176471,
+            "mean_ordinal_cost": 0.5764705882352941,
+            "undercall_rate": 0.023529411764705882
+          },
+          "static_medium": {
+            "count": 85,
+            "exact_accuracy": 0.3176470588235294,
+            "mean_ordinal_cost": 2.4352941176470586,
+            "undercall_rate": 0.6705882352941176
+          }
+        },
+        "train": {
+          "groups": 17,
+          "model": {
+            "count": 258,
+            "exact_accuracy": 0.9534883720930233,
+            "mean_ordinal_cost": 0.08527131782945736,
+            "undercall_rate": 0.015503875968992248
+          },
+          "rule": {
+            "count": 258,
+            "exact_accuracy": 0.627906976744186,
+            "mean_ordinal_cost": 0.4728682170542636,
+            "undercall_rate": 0.03488372093023256
+          },
+          "static_medium": {
+            "count": 258,
+            "exact_accuracy": 0.29457364341085274,
+            "mean_ordinal_cost": 2.391472868217054,
+            "undercall_rate": 0.6937984496124031
+          }
+        },
+        "validation": {
+          "groups": 4,
+          "model": {
+            "count": 72,
+            "exact_accuracy": 0.8194444444444444,
+            "mean_ordinal_cost": 0.3194444444444444,
+            "undercall_rate": 0.09722222222222222
+          },
+          "rule": {
+            "count": 72,
+            "exact_accuracy": 0.7222222222222222,
+            "mean_ordinal_cost": 0.375,
+            "undercall_rate": 0.041666666666666664
+          },
+          "static_medium": {
+            "count": 72,
+            "exact_accuracy": 0.2222222222222222,
+            "mean_ordinal_cost": 2.8472222222222223,
+            "undercall_rate": 0.7638888888888888
+          }
+        }
+      }
+    },
+    "old_dgx_runs": [
+      {
+        "run": "baseline-full-20260728-130057",
+        "aggregate": {
+          "action_total": 279,
+          "positive_score_games": 2,
+          "score_count": 25,
+          "score_mean": 0.2,
+          "score_median": 0.0,
+          "score_total": 5.0
+        },
+        "duration_s": 7920.962499103043,
+        "condition": "baseline",
+        "source_sha256": "54c06c4e6b92225d4aa953bcbc16543b99bf35ae38ef724f4b1db634c09e805f",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v12r-full-20260728-153210",
+        "aggregate": {
+          "action_total": 49,
+          "positive_score_games": 0,
+          "score_count": 25,
+          "score_mean": 0.0,
+          "score_median": 0.0,
+          "score_total": 0.0
+        },
+        "duration_s": 7920.879680674989,
+        "condition": "v12r",
+        "source_sha256": "695af46281462a1968872bff6b8b7ad1fc8a806d174326c277ce85499ae433e5",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v12r-smoke-20260728-124244",
+        "aggregate": {
+          "action_total": 9,
+          "positive_score_games": 0,
+          "score_count": 1,
+          "score_mean": 0.0,
+          "score_median": 0.0,
+          "score_total": 0.0
+        },
+        "duration_s": 600.421015803935,
+        "condition": "v12r",
+        "source_sha256": "515457471cd24debe385fa1dae09afd0a5f481d9baa65fb014cd94948198035e",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v14q-c16-full-20260728-postparent",
+        "aggregate": {
+          "action_total": 101,
+          "positive_score_games": 0,
+          "score_count": 25,
+          "score_mean": 0.0,
+          "score_median": 0.0,
+          "score_total": 0.0
+        },
+        "duration_s": 7920.841915150057,
+        "condition": "v14q_c16",
+        "source_sha256": "8e7aa95277424a656741cbbb583bb03f9158695571738abc3c23704e2895a691",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v14q-parent-full-20260728-180000",
+        "aggregate": {
+          "action_total": 8,
+          "positive_score_games": 0,
+          "score_count": 25,
+          "score_mean": 0.0,
+          "score_median": 0.0,
+          "score_total": 0.0
+        },
+        "duration_s": 7920.761883737985,
+        "condition": "parent",
+        "source_sha256": "5006586a7d8f4f1a19b499afb144023d6fe9d21ff03e063a77c0635482b6b743",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v18d-full-20260729-075836-6bd27f66",
+        "aggregate": {
+          "action_total": 495,
+          "positive_score_games": 2,
+          "score_count": 25,
+          "score_mean": 0.16598639455782313,
+          "score_median": 0.0,
+          "score_total": 4.149659863945578
+        },
+        "duration_s": 7921.08054513298,
+        "condition": "v18d",
+        "source_sha256": "b083f84832694ba0b7376c7be0cb42a2a4b6c10a2e128764ececdcbf19df3237",
+        "eligible_as_target_flash_next_control": false
+      },
+      {
+        "run": "v19p-full-20260730-080646-09123e95",
+        "aggregate": {
+          "action_total": 4,
+          "positive_score_games": 0,
+          "score_count": 25,
+          "score_mean": 0.0,
+          "score_median": 0.0,
+          "score_total": 0.0
+        },
+        "duration_s": 7920.818580002058,
+        "condition": "v19p",
+        "source_sha256": "6762f09ca2edc0afddf910caa83ed9de282ecd6f66ce3e68366024b468e36553",
+        "eligible_as_target_flash_next_control": false
+      }
+    ],
+    "effort_capability": {
+      "source_path": "/home/urad/arc38_effort_capability_20260903/output/capability_report.json",
+      "acceptance": {
+        "all_invalid_high_and_max_rejected": true,
+        "canonical_reasoning_response": true,
+        "fallback_no_effort": true,
+        "nested_template_supported_diagnostic": true,
+        "official_top_level_all_tiers": true,
+        "preserved_reasoning_history": true
+      },
+      "successful_ui_to_wire": {
+        "LOW": "low",
+        "MEDIUM": "medium",
+        "HIGH": "xhigh",
+        "MAX": "xhigh"
+      },
+      "terminal_supervisor_receipt": {
+        "status": "FAIL",
+        "server_residue": true,
+        "cleanup_uncertain": false,
+        "gpu_compute_processes": 0,
+        "llm_weights_modified": false,
+        "kaggle_mutation_performed": false
+      },
+      "scope": "Archived local vLLM/template capability only, not current SGLang or score validation."
+    }
+  },
+  "limitations": [
+    "Archived traces do not measure new-policy effects.",
+    "No camera, no-op or fatal-action rate is computed without rendered states and events.",
+    "Unequal panels, time limits and concurrency cannot support a causal version ranking."
+  ]
+}

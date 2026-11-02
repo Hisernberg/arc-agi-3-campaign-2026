@@ -1,0 +1,65 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "account": "kragglenote2forwork",
+  "kernel": "kragglenote2forwork/arc26-b-dprime-v2d",
+  "kernel_version": 2,
+  "script_version_id": 357087759,
+  "canonical_code_hash": "71164d764df294e70e38e06bc125a8c1bfb706ff98de0a89d93447821e1e8bd3",
+  "canonical_code_hash_algorithm": "sha256(json.dumps([join(cell.source) for code cells], ensure_ascii=False, separators=(comma,colon)).encode(UTF-8)); no trailing newline",
+  "candidate_path": "/home/urad/arc-forwork/arc3/candidates/arc3_v2d_reproduction.ipynb",
+  "metadata_path": "/home/urad/arc-forwork/arc3/candidates/kernel-metadata.json",
+  "archived_submission_ref": 57056539,
+  "archived_public_score": 30.35,
+  "recorded_status": "COMPLETE",
+  "live_verification": "PASS; fresh source matches frozen version2 and artifact schema",
+  "mode": "resubmit_existing_complete_version",
+  "new_notebook_push_allowed": false,
+  "new_gpu_commit_required": false,
+  "authorized_date_seoul": "2026-10-13",
+  "automation_cutoff_seoul": "2026-10-14",
+  "max_submissions_on_authorized_date": 1,
+  "performance_claim": "reproduction; no new measured score improvement",
+  "gates": [
+    {
+      "name": "code_identical",
+      "status": "PASS",
+      "evidence_path": "/home/urad/arc-forwork/arc3/candidates/reproduction_manifest.json"
+    },
+    {
+      "name": "notebook_syntax_and_schema",
+      "status": "PASS",
+      "evidence_path": "/home/urad/arc-forwork/arc3/candidates/reproduction_manifest.json"
+    },
+    {
+      "name": "existing_helper_and_collector_CPU_contracts",
+      "status": "PASS_27_OF_27",
+      "evidence_path": "/home/urad/arc-forwork/arc3/evidence/checked_helpers_cpu.log"
+    },
+    {
+      "name": "archived_three_game_breakage_smoke",
+      "status": "PASS_9_LEVELS_241_ACTIONS_0_CRASHES",
+      "evidence_path": "/home/urad/arc-forwork/sources/raw/checkouts/Hisernberg__arc-agi-3-campaign/track-b/2026-10-10/smoke_v2d.md",
+      "qualification": "archived three-game smoke at three active games; not full ten-stream performance or unseen-game proof"
+    },
+    {
+      "name": "live_same_version_COMPLETE_hash_identity_slot",
+      "status": "SOURCE_AND_SCRIPT_BINDING_PASS; daily slot rechecked at submission time",
+      "evidence_path": "/home/urad/arc-forwork/arc3/live_verification.json"
+    }
+  ],
+  "required_before_submit": [
+    "exact authorized target identity",
+    "current status COMPLETE",
+    "immutable script_version_id match",
+    "current source canonical_code_hash match",
+    "current competition submission date/rules valid",
+    "one-shot idempotency lock and result receipt",
+    "available official UTC daily slot; prior-day pending results recorded without inventing score"
+  ],
+  "submission_file": "submission.parquet",
+  "model_sources": [
+    "dfranzen/albucino-qwen3-8-flash-next-drafter/Transformers/default/1",
+    "dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/Transformers/default/1"
+  ],
+  "pending_evaluations_must_finish": true
+}

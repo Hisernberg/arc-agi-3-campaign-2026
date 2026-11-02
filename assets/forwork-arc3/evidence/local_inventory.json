@@ -1,0 +1,11 @@
+{
+  "notebooks": 294,
+  "unique_code_hashes": 152,
+  "cells": 5616,
+  "unparsed_sources": 0,
+  "historical_complete_results": 7,
+  "historical_game_rows": 151,
+  "model_runs_today": 0,
+  "gpu_runs_today": 0,
+  "note": "AST parsing and archived local play are distinct from measured official submission performance."
+}

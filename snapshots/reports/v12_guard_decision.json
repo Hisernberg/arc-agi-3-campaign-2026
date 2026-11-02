@@ -1,0 +1,11 @@
+{
+ "guard_version": 2,
+ "rerun_env": false,
+ "target_gpu": true,
+ "gpu_why": "NVIDIA RTX PRO 6000 Blackwell Server Edition (97887 MiB)",
+ "gateway_up": false,
+ "gateway_why": "gateway DNS dead 3612s (87 tries) -> commit-style env",
+ "force_smoke": false,
+ "run_full": false,
+ "decided_at": "2026-10-26T10:50:44Z"
+}

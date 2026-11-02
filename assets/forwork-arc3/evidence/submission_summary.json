@@ -1,0 +1,39 @@
+{
+  "archived_rows": 42,
+  "complete_scored_rows": 41,
+  "exact_account_version_groups": 28,
+  "accounts": {
+    "dasshovon": {
+      "draws": 9,
+      "best_archived_score": 27.67,
+      "best_ref": "56900990",
+      "best_url": "https://www.kaggle.com/code/dasshovon/arc26-m2s-super-v3?scriptVersionId=355067303",
+      "latest_archived": {
+        "account": "dasshovon",
+        "ref": "56900990",
+        "date": "2026-10-07 05:18",
+        "score": "27.67",
+        "status": "COMPLETE",
+        "description": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-fo",
+        "url": "/code/dasshovon/arc26-m2s-super-v3?scriptVersionId=355067303"
+      }
+    },
+    "kragglenote2forwork": {
+      "draws": 32,
+      "best_archived_score": 33.5,
+      "best_ref": "56994560",
+      "best_url": "https://www.kaggle.com/code/kragglenote2forwork/arc26-b-dprime-clean-v1?scriptVersionId=356647589",
+      "latest_archived": {
+        "account": "kragglenote2forwork",
+        "ref": "57056539",
+        "date": "2026-10-11 00:22",
+        "score": "30.35",
+        "status": "COMPLETE",
+        "description": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PR",
+        "url": "/code/kragglenote2forwork/arc26-b-dprime-v2d?scriptVersionId=357087759"
+      }
+    }
+  },
+  "verified_live_today": false,
+  "excluded": "Notebook page maximum scores and external authors' maxima are not pooled with own per-submission draws."
+}

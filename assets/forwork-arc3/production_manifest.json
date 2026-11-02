@@ -1,0 +1,36 @@
+{
+  "name": "ARC3 best observed scored existing saved source",
+  "competition": "arc-prize-2026-arc-agi-3",
+  "account": "kragglenote2forwork",
+  "kernel": "kragglenote2forwork/arc26-b-dprime-clean-v1",
+  "version": 1,
+  "script_version_id": 356647589,
+  "code_hash": "19cb107192799b1569070599edc4aba54ea962f56ee7b7fd113e28dd03c6d397",
+  "candidate_path": "/home/urad/arc-forwork/arc3/candidates/arc3_clean_v1_best_scored_reproduction.ipynb",
+  "source_path": "/home/urad/arc-forwork/arc3/build_today/today_source_selection/arc26-b-dprime-clean-v1.ipynb",
+  "source_selection": "immutable_saved_version",
+  "version_label": "v1",
+  "source_resource_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "model_sources": [
+    "dfranzen/albucino-qwen3-8-flash-next-drafter/Transformers/default/1",
+    "dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/Transformers/default/1"
+  ],
+  "submission_file": "submission.parquet",
+  "archived_submission_ref": "56994560",
+  "archived_public_score": 33.5,
+  "observed_score_scope": "Historical maximum for exact source; not an expected score or ranking forecast.",
+  "authorized_submission_dates": [
+    "2026-10-12",
+    "2026-10-13"
+  ],
+  "algorithm_change_in_this_selection": false,
+  "new_notebook_push_allowed": false,
+  "new_gpu_commit_required": false,
+  "fallback_manifest_path": "/home/urad/arc-forwork/arc3/production_manifest_v2d_hold.json",
+  "review_path": "/home/urad/arc-forwork/arc3/build_today/today_source_selection/selection_summary.json",
+  "live_verification_path": "/home/urad/arc-forwork/arc3/live_verification.json",
+  "selection_reason": "Latest user requests best today; choose independently reviewed existing successful exact source with highest account observed score.",
+  "pending_evaluations_must_finish": true,
+  "pending_exception_scope": "Root policy permits one specified old ARC2 repeat only onOct12; all normal source/slot/idempotency gates remain.",
+  "source_resource_scope": "SHA256 of sorted canonical notebook metadata.kaggle; binds accelerator,Docker numericversion,offlineflag and numeric attachments."
+}

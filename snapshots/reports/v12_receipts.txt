@@ -1,0 +1,18 @@
+#OURS_FORM ok version=d_prime priority_value replaced; fresh-first removed; tail fade 0.4; level_pow=0.5 eff_const=300 eff_pow=2.5 pace_pow=0.4 pace_ref=30000 c_action=0.1 action_scale=115 c_token=0.9 token_scale=225000 lin_floor=0.1 rel_pow=0.5 b1=10 b2=14 b3=16
+#OURS_WASTEPACK ok chat_completion + dispatch_tool wrapped death_ledger=1 repeat_guard=1 lookahead=1 wm_wipe_on_game_over=0
+#OURS_DOSSIER ok {'mounted': True, 'prompt_tail': 'installed', 'errors': 0, 'games': 25, 'root': '/kaggle/input/arc26-game-dossier-v1', 'protocol_steps': 6}
+#OURS_XPACK ok {'mounted': True, 'prompt_tail': 'installed', 'tools': False, 'errors': 0, 'root': '/kaggle/input/arc26-game-dossier-v2', 'games_categorized': 25, 'categories': 7, 'sft_exemplars': 3, 'dead_seeds': 0, 'tool_err': 'ModuleNotFoundError("No module named \'ours_transforms\'")'}
+#OURS_V12 stall_knee=True knee=80 halflife=40 floor=0.1 flat
+#OURS_ACTCHECKED {'stall': True, 'act_checked': True, 'tail': False, 'errors': 0}
+#OURS_V12_TAIL installed
+#OURS_FRESH replaced=0
+#OURS_WASTEPACK stats {"dedup_msgs": 0, "dedup_lines": 0, "refusals": 0, "errors": 0}
+#OURS_DOSSIER stats {"mounted": true, "prompt_tail": "installed", "errors": 0, "games": 25, "root": "/kaggle/input/arc26-game-dossier-v1", "protocol_steps": 6}
+#OURS_XPACK stats {"mounted": true, "prompt_tail": "installed", "tools": false, "errors": 0, "root": "/kaggle/input/arc26-game-dossier-v2", "games_categorized": 25, "categories": 7, "sft_exemplars": 3, "dead_seeds": 0, "tool_err": "ModuleNotFoundError(\"No module named 'ours_transforms'\")"}
+#OURS_V12 stats {"stall": true, "act_checked": true, "tail": "installed", "errors": 0}
+[Y21:AUDIT] qwen3.5-27b-fp8 weights (primary): dataset eliork/qwen3-5-27b-fp8; upstream Qwen3.5 (Apache-2.0); FP8 repack (third-party, public-shareable)
+[Y21:AUDIT] qwen3.8-flash-next W4A16 (fallback): model dfranzen/intel-qwen3.8-flash-next-w4a16-autoround (fail-open incumbent serving path)
+[Y21:AUDIT] game dossier data: dataset dasshovon/arc26-game-dossier-v1 (own probe sessions + own recorded traces + own analysis; CC0-1.0)
+[Y21:AUDIT] pennyroyal-v253 wheels: dataset dfranzen/pennyroyal-v253 (third-party; pinned digest build)
+[Y21:AUDIT] taaf source bundle: dataset dfranzen/taaf-kaggle-source-bundle-copy (third-party; fork lineage)
+[Y21:AUDIT] our harness patches: MIT-0 (this notebook's diff vs the pinned bundle)

@@ -1,0 +1,227 @@
+{
+  "verified_at_utc": "2026-10-11T19:05:08.733849+00:00",
+  "api_fetch_timestamp_utc": "2026-10-11T19:02:48.575639+00:00",
+  "api_fetch_timestamp_note": "Root API download receipt recorded this actual UTC time.",
+  "competition": "arc-prize-2026-arc-agi-3",
+  "account": "kragglenote2forwork",
+  "kernel": "kragglenote2forwork/arc26-b-dprime-v2d",
+  "kernel_version": 2,
+  "script_version_id": 357087759,
+  "verified_code_hash": "71164d764df294e70e38e06bc125a8c1bfb706ff98de0a89d93447821e1e8bd3",
+  "verified_code_cells": 15,
+  "verified_code_hash_algorithm": "sha256 UTF-8 JSON list of code cell sources, ensure_ascii=False, separators=(',',':'), no trailing newline",
+  "saved_submission_status": "SubmissionStatus.COMPLETE",
+  "saved_submission_ref": "57056539",
+  "saved_public_score": 30.35,
+  "owner_identity": {
+    "metadata_owner_matches": true,
+    "submission_owner_matches": true,
+    "authenticated_user_check": "owned by root runner identity gate"
+  },
+  "raw_output_gate": "PASS",
+  "raw_output_gate_scope": "Frozen saved-version reproduction, archived target-GPU smoke and saved commit artifact format; no claim of policy improvement or full unseen-game coverage.",
+  "criteria": {
+    "identical_frozen_code": "PASS",
+    "transformed_AST_and_nbformat": "PASS",
+    "pinned_metadata": "PASS",
+    "recorded_same_script_COMPLETE": "PASS",
+    "expected_three_game_roster": "PASS",
+    "nonzero_actions_and_levels": "PASS",
+    "no_crashed_games": "PASS",
+    "model_server_ready_and_Dprime_active": "PASS",
+    "decode_bins_recomputed_from_server_log": "PASS",
+    "submission_parquet_readback": "PASS"
+  },
+  "smoke": {
+    "run_start": "2026-10-10T15:17:55.693787",
+    "run_end": "2026-10-10T15:26:01.120986",
+    "game_count": 3,
+    "levels": 9,
+    "actions": 241,
+    "crashed_games": 0,
+    "game_rows": [
+      {
+        "game_id": "sc25-635fd71a",
+        "levels_completed": 2,
+        "number_of_levels": 6,
+        "actions": 52,
+        "state": "gave_up",
+        "wallclock_seconds": 485.19953432500006,
+        "smoke_score": 14.285714285714285,
+        "action_attributed_generated_tokens": 45406
+      },
+      {
+        "game_id": "re86-8af5384d",
+        "levels_completed": 3,
+        "number_of_levels": 8,
+        "actions": 141,
+        "state": "gave_up",
+        "wallclock_seconds": 480.119247081,
+        "smoke_score": 16.666666666666664,
+        "action_attributed_generated_tokens": 42212
+      },
+      {
+        "game_id": "ft09-0d8bbf25",
+        "levels_completed": 4,
+        "number_of_levels": 6,
+        "actions": 48,
+        "state": "gave_up",
+        "wallclock_seconds": 480.0767320120001,
+        "smoke_score": 47.61904761904761,
+        "action_attributed_generated_tokens": 44654
+      }
+    ],
+    "notebook_final_event_seconds": 1083.241766318,
+    "server_ready_after_seconds": 532,
+    "configured_game_seconds": 480,
+    "actual_max_active_streams": 3
+  },
+  "throughput": {
+    "decode_bins": {
+      "1": {
+        "n": 7,
+        "mean": 251.3
+      },
+      "2": {
+        "n": 108,
+        "mean": 302.7
+      },
+      "3": {
+        "n": 398,
+        "mean": 317.5
+      }
+    },
+    "decode_lines": 513,
+    "harness_reported": {
+      "buckets": {
+        "1": {
+          "mean": 251.3,
+          "median": 218.2,
+          "n": 7
+        },
+        "2": {
+          "mean": 302.7,
+          "median": 306.9,
+          "n": 108
+        },
+        "3": {
+          "mean": 317.5,
+          "median": 331.4,
+          "n": 398
+        }
+      },
+      "cached_tokens": 3567872,
+      "completion_tok_per_s_wall": 279.0,
+      "completion_tokens": 135824,
+      "decode_lines": 513,
+      "dfranzen_10stream_decode_tok_s": [
+        609,
+        837
+      ],
+      "ge12": {
+        "mean": null,
+        "n": 0
+      },
+      "headroom_ratio_10x93Ki": 1.062,
+      "le10": {
+        "mean": 313.5,
+        "n": 513
+      },
+      "max_total_num_tokens": 1011264,
+      "oom_lines": 0,
+      "prefix_reuse_pct": 94.2,
+      "prompt_tokens": 3786912,
+      "ratio_ge12_over_le10": null,
+      "requests": 181,
+      "retract_lines": 0,
+      "usage_peak": 0.26,
+      "v2_reference": {
+        "completion_tok_per_s_wall": 273.1,
+        "prefix_reuse_pct": 94.6,
+        "streams": 3
+      }
+    },
+    "independent_validation": "Decode rates/counts independently recomputed; cached-token share arithmetic checked. Original *_requests.jsonl was not included in selected API outputs, so token accounting is harness-reported, not independently reconstructed here."
+  },
+  "commit_artifact": {
+    "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/submission.parquet",
+    "schema": [
+      "row_id",
+      "game_id",
+      "end_of_game",
+      "score"
+    ],
+    "rows": 1,
+    "meaning": "Verified placeholder for saved-code submission; actual competition rerun plays live gateway games."
+  },
+  "limitations": [
+    "Fresh downloads are outputs from the 2026-10-10 commit smoke; no new GPU/model runs happened today.",
+    "Three public games and partial clears do not demonstrate all-game or private-game improvement.",
+    "Ten active streams are configured, but were never exercised in this smoke. 1.062 headroom ratio is an analytic capacity estimate.",
+    ">=12-stream promotion comparison has zero samples, so that optimization comparison is INCONCLUSIVE despite the printed throughput gate PASS.",
+    "The server emits nonfatal wrapt/sitecustomize warnings; sandboxed Python snippets had recoverable errors. Zero crashed games does not mean zero tool errors.",
+    "Server completion usage, action-attributed tokens and solver-note tokens have different scopes; do not combine them as one exact token ledger.",
+    "Remaining official slot, live competition validity, authenticated account identity and tomorrow-only lock must be rechecked by the runner immediately before submission.",
+    "The scored rerun retains a nine-hour competition budget; the thirty-to-forty-minute cap applies to engineering panels. GPU quota charging must be verified independently."
+  ],
+  "artifacts": [
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/source/arc26-b-dprime-v2d.ipynb",
+      "bytes": 612400,
+      "sha256": "cd5f0d4d30c50966bd47ab16243f87bcbd9d6cf922911c390d8644ffa7017f85"
+    },
+    {
+      "path": "/home/urad/arc-forwork/arc3/candidates/arc3_v2d_reproduction.ipynb",
+      "bytes": 623083,
+      "sha256": "8228ab759e550d9aff7fbc2240aa6331397439c50b8ee23022e014b9228bf244"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/source/kernel-metadata.json",
+      "bytes": 868,
+      "sha256": "b576efa1e41010b6f456c67a9c1dc8fa9bcfacc9064c4b9b1d4cc4bf13d74fdf"
+    },
+    {
+      "path": "/home/urad/arc-forwork/inventory/arc-prize-2026-arc-agi-3_live_submissions.json",
+      "bytes": 12365,
+      "sha256": "b3d2ba15450e13406034d28f72601820978b6292ba6c20ae43f003924b07b4b6"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/arc26-b-dprime-v2d.log",
+      "bytes": 33448,
+      "sha256": "7382d140ee2cba9775ffefdc466b755c711adfa489acec13549cea775e08cbc5"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/benchmark.json",
+      "bytes": 62200,
+      "sha256": "4421b40d2239b15664b67a239b5be0f296375b3bdbe891d5b37f4b835db9bc80"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/prompts/ft09-0d8bbf25_p0.log",
+      "bytes": 224594,
+      "sha256": "44074e4270de6f42b8acf1c327a194f5a45b8adee0647a2288c7a889932960e9"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/prompts/re86-8af5384d_p0.log",
+      "bytes": 242507,
+      "sha256": "85c79018d7a398d929b76bed37728f58be6ffcbfd96abb599c859ba088cf2b45"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/prompts/sc25-635fd71a_p0.log",
+      "bytes": 292927,
+      "sha256": "744fb21a5c7107150ee7dc57cf7212e9b2db749cab5469d3d8000ab4fa6a9cfc"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/serve.log",
+      "bytes": 218372,
+      "sha256": "a30e54232422ecbffc7f00aa1cca748aaa2ac82c772db1a149f711d625987c50"
+    },
+    {
+      "path": "/home/urad/arc-forwork/sources/raw/live_candidates/arc3/outputs/submission.parquet",
+      "bytes": 2648,
+      "sha256": "71bfd543030e339d87bd9ff744d466218398a1259650b2c255626d27049c88bb"
+    }
+  ],
+  "model_runs_today": 0,
+  "gpu_runs_today": 0,
+  "submissions_today": 0
+}

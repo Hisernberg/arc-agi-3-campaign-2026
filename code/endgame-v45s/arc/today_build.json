@@ -1,0 +1,24 @@
+{
+  "date_utc": "2026-11-02",
+  "build_label": "FINALS SELECTION SLOT — the ONLY scoring action left in the competition. No leaderboard submission possible (receipted 4 ways, unchanged): quota dead (dasshovon 13,553s/21,600 used; kragglenote 17,557s; refresh Nov-7 > lock Nov-2), zero completed unsubmitted kernels, CreateCodeSubmission on unrun version = 403 x2. v44 mixture-of-solvers BUILT + STATIC-PASS Nov-1 (arc26-nvarc-v44-mixture) but validates post-lock on the Nov-7 refresh — never submitted, by law.",
+  "finals_window": "2026-11-02 00:00-05:45 UTC (06:00-11:45 Dhaka). After 05:45 UTC nothing can be changed.",
+  "clicks": [
+    {"ref": 56842535, "score": 32.64, "kernel": "v19 draw (dasshovon lane)", "status": "SLOT 1 - Runbook-locked anchor + strict #1 by score"},
+    {"ref": 56901303, "score": 31.81, "kernel": "lb33-89-replica (kragglenote2forwork lane)", "status": "SLOT 2 - operator-ratified 22:22 Dhaka Nov-1 over runbook fallback 57744816 (31.39); strict #2 by score"}
+  ],
+  "receipt_path": "/home/z/my-project/arc/oct29_work/finals_selection_receipt.json",
+  "engine_refresh": "2026-11-01T17:23:42Z finals_selection_nov2.py: 50 submissions scanned, 49 scored, pending only stale 56581590 (not actionable); strict top-2 = 56842535 (32.64) + 56901303 (31.81); council-refill 57829160 landed 28.19 < 29.0 threshold -> diversity line closed.",
+  "armed_jobs": ["493316 (06:10 Dhaka)", "493314 (09:00 Dhaka)", "493315 (10:50 Dhaka)"],
+  "ui_steps": [
+    "1. kaggle.com -> arc-prize-2026-arc-agi-2 -> My Submissions (same merged team from either dasshovon or kragglenote2forwork login)",
+    "2. Tick 'Select for Final Score' on ref 56842535 (32.64)",
+    "3. Tick 'Select for Final Score' on ref 56901303 (31.81) — if the UI restricts selection to the submitting account, tick this one under the kragglenote2forwork login",
+    "4. Screenshot as proof BEFORE 11:45 Dhaka / 05:45 UTC"
+  ],
+  "next_build": {
+    "build_label": "v44 mixture-of-solvers (3.8-class quant ladder primary via v38 swap + 6h-cap budget + mixture receipts) — staged push after Nov-7 00:00 UTC quota refresh via scripts/push_v44_staged.sh (gate: timeUsed < 3600s)",
+    "spec_path": "arc/oct29_work/arc26-nvarc-v44-mixture.ipynb",
+    "notebook_target": "dasshovon/arc26-nvarc-v44-mixture",
+    "status": "POST-LOCK VALIDATION MODE (built Nov-1, static PASS, quota-gated push Nov-7)"
+  }
+}

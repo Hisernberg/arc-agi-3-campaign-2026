@@ -1,0 +1,2002 @@
+[
+ {
+  "date": "2026-10-26T08:31:03",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57659975,
+  "bytes": 3411,
+  "desc": "Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds + Qwen3.5-27B-FP8 primary; GPU run complete all receipts ok; LB takes max)"
+ },
+ {
+  "date": "2026-10-25T11:17:09",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57627860,
+  "bytes": 3411,
+  "desc": "Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single delta vs Oct-24 anchor 26.47 ref 57594680; Y29 md5 d8dce0d88c5c parity, attachments identical): kee"
+ },
+ {
+  "date": "2026-10-24T12:45:01",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57594680,
+  "bytes": 3829,
+  "desc": "Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T11:30:01",
+  "status": "error",
+  "score": "",
+  "ref": 57592755,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T09:27:57",
+  "status": "error",
+  "score": "",
+  "ref": 57589586,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57584929/57585952/57586479/57587298/57588966)."
+ },
+ {
+  "date": "2026-10-24T09:02:40",
+  "status": "error",
+  "score": "",
+  "ref": 57588966,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/57585952/57586479/57587298)."
+ },
+ {
+  "date": "2026-10-24T07:56:39",
+  "status": "error",
+  "score": "",
+  "ref": 57587298,
+  "bytes": 0,
+  "desc": "Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels. Score 0.00 expected by design."
+ },
+ {
+  "date": "2026-10-24T07:22:17",
+  "status": "error",
+  "score": "",
+  "ref": 57586479,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver (F-1026). Base re-anchor."
+ },
+ {
+  "date": "2026-10-24T06:58:32",
+  "status": "error",
+  "score": "",
+  "ref": 57585952,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-24T06:16:20",
+  "status": "error",
+  "score": "",
+  "ref": 57584929,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-23T07:49:25",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57553794,
+  "bytes": 3411,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-22T08:42:57",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57517413,
+  "bytes": 3411,
+  "desc": "Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+ },
+ {
+  "date": "2026-10-21T05:03:26",
+  "status": "complete",
+  "score": "22.47",
+  "ref": 57466630,
+  "bytes": 3767,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132) + R3 game-over death ledger ON (IDEA#133). User-ordered combined build; "
+ },
+ {
+  "date": "2026-10-21T05:03:20",
+  "status": "complete",
+  "score": "22.33",
+  "ref": 57466626,
+  "bytes": 3805,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (ouyangruize 537B delta, patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132"
+ },
+ {
+  "date": "2026-10-20T05:52:16",
+  "status": "complete",
+  "score": "19.99",
+  "ref": 57424569,
+  "bytes": 3798,
+  "desc": "Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A."
+ },
+ {
+  "date": "2026-10-20T05:52:05",
+  "status": "complete",
+  "score": "26.73",
+  "ref": 57424564,
+  "bytes": 3794,
+  "desc": "Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)"
+ },
+ {
+  "date": "2026-10-19T07:16:59",
+  "status": "complete",
+  "score": "30.16",
+  "ref": 57387404,
+  "bytes": 3879,
+  "desc": "10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-specific; S15 needs rerun-envelope diagnosis before retry. A/B: B-side redraw."
+ },
+ {
+  "date": "2026-10-19T07:15:51",
+  "status": "complete",
+  "score": "27.84",
+  "ref": 57387375,
+  "bytes": 3819,
+  "desc": "10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next window. A/B: A=this on work acct; B acct burned by S15 v2 error 57373787 (version-specific submissio"
+ },
+ {
+  "date": "2026-10-19T00:06:55",
+  "status": "error",
+  "score": "",
+  "ref": 57373787,
+  "bytes": 0,
+  "desc": "10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet target >32.25"
+ },
+ {
+  "date": "2026-10-18T07:44:38",
+  "status": "complete",
+  "score": "28.59",
+  "ref": 57345341,
+  "bytes": 3796,
+  "desc": "10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+ },
+ {
+  "date": "2026-10-18T06:40:40",
+  "status": "error",
+  "score": "",
+  "ref": 57343317,
+  "bytes": 0,
+  "desc": "10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)"
+ },
+ {
+  "date": "2026-10-18T05:43:24",
+  "status": "error",
+  "score": "",
+  "ref": 57340883,
+  "bytes": 0,
+  "desc": "10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)"
+ },
+ {
+  "date": "2026-10-18T00:12:16",
+  "status": "complete",
+  "score": "28.83",
+  "ref": 57331028,
+  "bytes": 3846,
+  "desc": "Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; family text_H_EIS; E-154 draw discipline. Council 10-17: redraw the best-mu text daily. | kragglenote"
+ },
+ {
+  "date": "2026-10-18T00:00:16",
+  "status": "error",
+  "score": "",
+  "ref": 57329671,
+  "bytes": 0,
+  "desc": "10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)"
+ },
+ {
+  "date": "2026-10-17T06:13:53",
+  "status": "complete",
+  "score": "31.62",
+  "ref": 57298529,
+  "bytes": 3816,
+  "desc": "Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10 levels on ft09/sc25/re86 (= v2f), 0 crashes (track-b/2026-10-16/smoke_eis.md). Commit = placeholder"
+ },
+ {
+  "date": "2026-10-17T05:41:02",
+  "status": "complete",
+  "score": "32.25",
+  "ref": 57297300,
+  "bytes": 3897,
+  "desc": "10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)"
+ },
+ {
+  "date": "2026-10-16T06:39:48",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57258538,
+  "bytes": 3811,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-15T04:41:30",
+  "status": "complete",
+  "score": "26.03",
+  "ref": 57216531,
+  "bytes": 3818,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T05:11:01",
+  "status": "complete",
+  "score": "30.05",
+  "ref": 57168017,
+  "bytes": 3764,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T01:50:55",
+  "status": "complete",
+  "score": "29.83",
+  "ref": 57163088,
+  "bytes": 3873,
+  "desc": "10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+ },
+ {
+  "date": "2026-10-13T16:42:53",
+  "status": "complete",
+  "score": "28.16",
+  "ref": 57150301,
+  "bytes": 3763,
+  "desc": "10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)"
+ },
+ {
+  "date": "2026-10-13T03:43:24",
+  "status": "complete",
+  "score": "28.03",
+  "ref": 57129298,
+  "bytes": 3817,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-12T13:38:11",
+  "status": "complete",
+  "score": "28.23",
+  "ref": 57108755,
+  "bytes": 3780,
+  "desc": "10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)"
+ },
+ {
+  "date": "2026-10-12T03:43:36",
+  "status": "complete",
+  "score": "30.77",
+  "ref": 57094303,
+  "bytes": 3836,
+  "desc": "ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending"
+ },
+ {
+  "date": "2026-10-11T00:22:14",
+  "status": "complete",
+  "score": "30.35",
+  "ref": 57056539,
+  "bytes": 3783,
+  "desc": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PASS (3 games, 9 levels, 0 crashes), B_THROUGHPUT_GATE PASS. Predicted band 28-36 (v1 family; v2b's 24."
+ },
+ {
+  "date": "2026-10-10T18:56:52",
+  "status": "complete",
+  "score": "32.05",
+  "ref": 57050666,
+  "bytes": 3814,
+  "desc": "10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+ },
+ {
+  "date": "2026-10-10T01:01:46",
+  "status": "complete",
+  "score": "24.50",
+  "ref": 57026424,
+  "bytes": 3790,
+  "desc": "10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork/arc26-b-dprime-v2b v1 | 2026-10-10T01:01:44Z"
+ },
+ {
+  "date": "2026-10-09T07:24:03",
+  "status": "error",
+  "score": "",
+  "ref": 56998560,
+  "bytes": 0,
+  "desc": "m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T06:15:52",
+  "status": "error",
+  "score": "",
+  "ref": 56995332,
+  "bytes": 0,
+  "desc": "m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T05:58:10",
+  "status": "complete",
+  "score": "33.50",
+  "ref": 56994560,
+  "bytes": 3798,
+  "desc": "track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside memos agree | kragglenote2forwork/arc26-b-dprime-clean-v1 v1 | 2026-10-09T05:58:08Z"
+ },
+ {
+  "date": "2026-10-08T09:36:07",
+  "status": "error",
+  "score": "",
+  "ref": 56947228,
+  "bytes": 0,
+  "desc": "m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placeholder commit"
+ },
+ {
+  "date": "2026-10-08T07:08:12",
+  "status": "complete",
+  "score": "23.65",
+  "ref": 56940861,
+  "bytes": 3856,
+  "desc": "Notebook arc-agi-3-m2-top-submission | Version 1"
+ },
+ {
+  "date": "2026-10-07T06:02:13",
+  "status": "complete",
+  "score": "29.21",
+  "ref": 56901959,
+  "bytes": 3865,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-07T05:18:10",
+  "status": "complete",
+  "score": "27.67",
+  "ref": 56900990,
+  "bytes": 3800,
+  "desc": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+ },
+ {
+  "date": "2026-10-06T17:16:03",
+  "status": "complete",
+  "score": "27.17",
+  "ref": 56886854,
+  "bytes": 3798,
+  "desc": "Notebook \ud83d\udd13 Fable & Astra Play ARC-3: Handbook + Harness | Version 2"
+ },
+ {
+  "date": "2026-10-06T10:09:21",
+  "status": "complete",
+  "score": "20.77",
+  "ref": 56877835,
+  "bytes": 3809,
+  "desc": "F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 game 5 min"
+ },
+ {
+  "date": "2026-10-05T18:17:34",
+  "status": "complete",
+  "score": "26.34",
+  "ref": 56859016,
+  "bytes": 3910,
+  "desc": "super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMPLETE Oct-5 16:17, checkpoint replay cap 40"
+ },
+ {
+  "date": "2026-10-05T04:49:21",
+  "status": "complete",
+  "score": "26.66",
+  "ref": 56842664,
+  "bytes": 3861,
+  "desc": "super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/25.84)"
+ },
+ {
+  "date": "2026-10-04T13:27:12",
+  "status": "complete",
+  "score": "25.84",
+  "ref": 56825114,
+  "bytes": 3814,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-04T13:26:15",
+  "status": "complete",
+  "score": "27.38",
+  "ref": 56825089,
+  "bytes": 3881,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-26T08:31:03",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57659975,
+  "bytes": 3411,
+  "desc": "Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds + Qwen3.5-27B-FP8 primary; GPU run complete all receipts ok; LB takes max)"
+ },
+ {
+  "date": "2026-10-25T11:17:09",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57627860,
+  "bytes": 3411,
+  "desc": "Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single delta vs Oct-24 anchor 26.47 ref 57594680; Y29 md5 d8dce0d88c5c parity, attachments identical): kee"
+ },
+ {
+  "date": "2026-10-24T12:45:01",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57594680,
+  "bytes": 3829,
+  "desc": "Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T11:30:01",
+  "status": "error",
+  "score": "",
+  "ref": 57592755,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T09:27:57",
+  "status": "error",
+  "score": "",
+  "ref": 57589586,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57584929/57585952/57586479/57587298/57588966)."
+ },
+ {
+  "date": "2026-10-24T09:02:40",
+  "status": "error",
+  "score": "",
+  "ref": 57588966,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/57585952/57586479/57587298)."
+ },
+ {
+  "date": "2026-10-24T07:56:39",
+  "status": "error",
+  "score": "",
+  "ref": 57587298,
+  "bytes": 0,
+  "desc": "Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels. Score 0.00 expected by design."
+ },
+ {
+  "date": "2026-10-24T07:22:17",
+  "status": "error",
+  "score": "",
+  "ref": 57586479,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver (F-1026). Base re-anchor."
+ },
+ {
+  "date": "2026-10-24T06:58:32",
+  "status": "error",
+  "score": "",
+  "ref": 57585952,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-24T06:16:20",
+  "status": "error",
+  "score": "",
+  "ref": 57584929,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-23T07:49:25",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57553794,
+  "bytes": 3411,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-22T08:42:57",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57517413,
+  "bytes": 3411,
+  "desc": "Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+ },
+ {
+  "date": "2026-10-21T05:03:26",
+  "status": "complete",
+  "score": "22.47",
+  "ref": 57466630,
+  "bytes": 3767,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132) + R3 game-over death ledger ON (IDEA#133). User-ordered combined build; "
+ },
+ {
+  "date": "2026-10-21T05:03:20",
+  "status": "complete",
+  "score": "22.33",
+  "ref": 57466626,
+  "bytes": 3805,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (ouyangruize 537B delta, patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132"
+ },
+ {
+  "date": "2026-10-20T05:52:16",
+  "status": "complete",
+  "score": "19.99",
+  "ref": 57424569,
+  "bytes": 3798,
+  "desc": "Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A."
+ },
+ {
+  "date": "2026-10-20T05:52:05",
+  "status": "complete",
+  "score": "26.73",
+  "ref": 57424564,
+  "bytes": 3794,
+  "desc": "Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)"
+ },
+ {
+  "date": "2026-10-19T07:16:59",
+  "status": "complete",
+  "score": "30.16",
+  "ref": 57387404,
+  "bytes": 3879,
+  "desc": "10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-specific; S15 needs rerun-envelope diagnosis before retry. A/B: B-side redraw."
+ },
+ {
+  "date": "2026-10-19T07:15:51",
+  "status": "complete",
+  "score": "27.84",
+  "ref": 57387375,
+  "bytes": 3819,
+  "desc": "10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next window. A/B: A=this on work acct; B acct burned by S15 v2 error 57373787 (version-specific submissio"
+ },
+ {
+  "date": "2026-10-19T00:06:55",
+  "status": "error",
+  "score": "",
+  "ref": 57373787,
+  "bytes": 0,
+  "desc": "10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet target >32.25"
+ },
+ {
+  "date": "2026-10-18T07:44:38",
+  "status": "complete",
+  "score": "28.59",
+  "ref": 57345341,
+  "bytes": 3796,
+  "desc": "10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+ },
+ {
+  "date": "2026-10-18T06:40:40",
+  "status": "error",
+  "score": "",
+  "ref": 57343317,
+  "bytes": 0,
+  "desc": "10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)"
+ },
+ {
+  "date": "2026-10-18T05:43:24",
+  "status": "error",
+  "score": "",
+  "ref": 57340883,
+  "bytes": 0,
+  "desc": "10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)"
+ },
+ {
+  "date": "2026-10-18T00:12:16",
+  "status": "complete",
+  "score": "28.83",
+  "ref": 57331028,
+  "bytes": 3846,
+  "desc": "Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; family text_H_EIS; E-154 draw discipline. Council 10-17: redraw the best-mu text daily. | kragglenote"
+ },
+ {
+  "date": "2026-10-18T00:00:16",
+  "status": "error",
+  "score": "",
+  "ref": 57329671,
+  "bytes": 0,
+  "desc": "10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)"
+ },
+ {
+  "date": "2026-10-17T06:13:53",
+  "status": "complete",
+  "score": "31.62",
+  "ref": 57298529,
+  "bytes": 3816,
+  "desc": "Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10 levels on ft09/sc25/re86 (= v2f), 0 crashes (track-b/2026-10-16/smoke_eis.md). Commit = placeholder"
+ },
+ {
+  "date": "2026-10-17T05:41:02",
+  "status": "complete",
+  "score": "32.25",
+  "ref": 57297300,
+  "bytes": 3897,
+  "desc": "10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)"
+ },
+ {
+  "date": "2026-10-16T06:39:48",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57258538,
+  "bytes": 3811,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-15T04:41:30",
+  "status": "complete",
+  "score": "26.03",
+  "ref": 57216531,
+  "bytes": 3818,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T05:11:01",
+  "status": "complete",
+  "score": "30.05",
+  "ref": 57168017,
+  "bytes": 3764,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T01:50:55",
+  "status": "complete",
+  "score": "29.83",
+  "ref": 57163088,
+  "bytes": 3873,
+  "desc": "10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+ },
+ {
+  "date": "2026-10-13T16:42:53",
+  "status": "complete",
+  "score": "28.16",
+  "ref": 57150301,
+  "bytes": 3763,
+  "desc": "10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)"
+ },
+ {
+  "date": "2026-10-13T03:43:24",
+  "status": "complete",
+  "score": "28.03",
+  "ref": 57129298,
+  "bytes": 3817,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-12T13:38:11",
+  "status": "complete",
+  "score": "28.23",
+  "ref": 57108755,
+  "bytes": 3780,
+  "desc": "10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)"
+ },
+ {
+  "date": "2026-10-12T03:43:36",
+  "status": "complete",
+  "score": "30.77",
+  "ref": 57094303,
+  "bytes": 3836,
+  "desc": "ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending"
+ },
+ {
+  "date": "2026-10-11T00:22:14",
+  "status": "complete",
+  "score": "30.35",
+  "ref": 57056539,
+  "bytes": 3783,
+  "desc": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PASS (3 games, 9 levels, 0 crashes), B_THROUGHPUT_GATE PASS. Predicted band 28-36 (v1 family; v2b's 24."
+ },
+ {
+  "date": "2026-10-10T18:56:52",
+  "status": "complete",
+  "score": "32.05",
+  "ref": 57050666,
+  "bytes": 3814,
+  "desc": "10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+ },
+ {
+  "date": "2026-10-10T01:01:46",
+  "status": "complete",
+  "score": "24.50",
+  "ref": 57026424,
+  "bytes": 3790,
+  "desc": "10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork/arc26-b-dprime-v2b v1 | 2026-10-10T01:01:44Z"
+ },
+ {
+  "date": "2026-10-09T07:24:03",
+  "status": "error",
+  "score": "",
+  "ref": 56998560,
+  "bytes": 0,
+  "desc": "m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T06:15:52",
+  "status": "error",
+  "score": "",
+  "ref": 56995332,
+  "bytes": 0,
+  "desc": "m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T05:58:10",
+  "status": "complete",
+  "score": "33.50",
+  "ref": 56994560,
+  "bytes": 3798,
+  "desc": "track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside memos agree | kragglenote2forwork/arc26-b-dprime-clean-v1 v1 | 2026-10-09T05:58:08Z"
+ },
+ {
+  "date": "2026-10-08T09:36:07",
+  "status": "error",
+  "score": "",
+  "ref": 56947228,
+  "bytes": 0,
+  "desc": "m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placeholder commit"
+ },
+ {
+  "date": "2026-10-08T07:08:12",
+  "status": "complete",
+  "score": "23.65",
+  "ref": 56940861,
+  "bytes": 3856,
+  "desc": "Notebook arc-agi-3-m2-top-submission | Version 1"
+ },
+ {
+  "date": "2026-10-07T06:02:13",
+  "status": "complete",
+  "score": "29.21",
+  "ref": 56901959,
+  "bytes": 3865,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-07T05:18:10",
+  "status": "complete",
+  "score": "27.67",
+  "ref": 56900990,
+  "bytes": 3800,
+  "desc": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+ },
+ {
+  "date": "2026-10-06T17:16:03",
+  "status": "complete",
+  "score": "27.17",
+  "ref": 56886854,
+  "bytes": 3798,
+  "desc": "Notebook \ud83d\udd13 Fable & Astra Play ARC-3: Handbook + Harness | Version 2"
+ },
+ {
+  "date": "2026-10-06T10:09:21",
+  "status": "complete",
+  "score": "20.77",
+  "ref": 56877835,
+  "bytes": 3809,
+  "desc": "F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 game 5 min"
+ },
+ {
+  "date": "2026-10-05T18:17:34",
+  "status": "complete",
+  "score": "26.34",
+  "ref": 56859016,
+  "bytes": 3910,
+  "desc": "super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMPLETE Oct-5 16:17, checkpoint replay cap 40"
+ },
+ {
+  "date": "2026-10-05T04:49:21",
+  "status": "complete",
+  "score": "26.66",
+  "ref": 56842664,
+  "bytes": 3861,
+  "desc": "super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/25.84)"
+ },
+ {
+  "date": "2026-10-04T13:27:12",
+  "status": "complete",
+  "score": "25.84",
+  "ref": 56825114,
+  "bytes": 3814,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-04T13:26:15",
+  "status": "complete",
+  "score": "27.38",
+  "ref": 56825089,
+  "bytes": 3881,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-26T08:31:03",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57659975,
+  "bytes": 3411,
+  "desc": "Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds + Qwen3.5-27B-FP8 primary; GPU run complete all receipts ok; LB takes max)"
+ },
+ {
+  "date": "2026-10-25T11:17:09",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57627860,
+  "bytes": 3411,
+  "desc": "Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single delta vs Oct-24 anchor 26.47 ref 57594680; Y29 md5 d8dce0d88c5c parity, attachments identical): kee"
+ },
+ {
+  "date": "2026-10-24T12:45:01",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57594680,
+  "bytes": 3829,
+  "desc": "Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T11:30:01",
+  "status": "error",
+  "score": "",
+  "ref": 57592755,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T09:27:57",
+  "status": "error",
+  "score": "",
+  "ref": 57589586,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57584929/57585952/57586479/57587298/57588966)."
+ },
+ {
+  "date": "2026-10-24T09:02:40",
+  "status": "error",
+  "score": "",
+  "ref": 57588966,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/57585952/57586479/57587298)."
+ },
+ {
+  "date": "2026-10-24T07:56:39",
+  "status": "error",
+  "score": "",
+  "ref": 57587298,
+  "bytes": 0,
+  "desc": "Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels. Score 0.00 expected by design."
+ },
+ {
+  "date": "2026-10-24T07:22:17",
+  "status": "error",
+  "score": "",
+  "ref": 57586479,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver (F-1026). Base re-anchor."
+ },
+ {
+  "date": "2026-10-24T06:58:32",
+  "status": "error",
+  "score": "",
+  "ref": 57585952,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-24T06:16:20",
+  "status": "error",
+  "score": "",
+  "ref": 57584929,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-23T07:49:25",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57553794,
+  "bytes": 3411,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-22T08:42:57",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57517413,
+  "bytes": 3411,
+  "desc": "Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+ },
+ {
+  "date": "2026-10-21T05:03:26",
+  "status": "complete",
+  "score": "22.47",
+  "ref": 57466630,
+  "bytes": 3767,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132) + R3 game-over death ledger ON (IDEA#133). User-ordered combined build; "
+ },
+ {
+  "date": "2026-10-21T05:03:20",
+  "status": "complete",
+  "score": "22.33",
+  "ref": 57466626,
+  "bytes": 3805,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (ouyangruize 537B delta, patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132"
+ },
+ {
+  "date": "2026-10-20T05:52:16",
+  "status": "complete",
+  "score": "19.99",
+  "ref": 57424569,
+  "bytes": 3798,
+  "desc": "Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A."
+ },
+ {
+  "date": "2026-10-20T05:52:05",
+  "status": "complete",
+  "score": "26.73",
+  "ref": 57424564,
+  "bytes": 3794,
+  "desc": "Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)"
+ },
+ {
+  "date": "2026-10-19T07:16:59",
+  "status": "complete",
+  "score": "30.16",
+  "ref": 57387404,
+  "bytes": 3879,
+  "desc": "10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-specific; S15 needs rerun-envelope diagnosis before retry. A/B: B-side redraw."
+ },
+ {
+  "date": "2026-10-19T07:15:51",
+  "status": "complete",
+  "score": "27.84",
+  "ref": 57387375,
+  "bytes": 3819,
+  "desc": "10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next window. A/B: A=this on work acct; B acct burned by S15 v2 error 57373787 (version-specific submissio"
+ },
+ {
+  "date": "2026-10-19T00:06:55",
+  "status": "error",
+  "score": "",
+  "ref": 57373787,
+  "bytes": 0,
+  "desc": "10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet target >32.25"
+ },
+ {
+  "date": "2026-10-18T07:44:38",
+  "status": "complete",
+  "score": "28.59",
+  "ref": 57345341,
+  "bytes": 3796,
+  "desc": "10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+ },
+ {
+  "date": "2026-10-18T06:40:40",
+  "status": "error",
+  "score": "",
+  "ref": 57343317,
+  "bytes": 0,
+  "desc": "10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)"
+ },
+ {
+  "date": "2026-10-18T05:43:24",
+  "status": "error",
+  "score": "",
+  "ref": 57340883,
+  "bytes": 0,
+  "desc": "10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)"
+ },
+ {
+  "date": "2026-10-18T00:12:16",
+  "status": "complete",
+  "score": "28.83",
+  "ref": 57331028,
+  "bytes": 3846,
+  "desc": "Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; family text_H_EIS; E-154 draw discipline. Council 10-17: redraw the best-mu text daily. | kragglenote"
+ },
+ {
+  "date": "2026-10-18T00:00:16",
+  "status": "error",
+  "score": "",
+  "ref": 57329671,
+  "bytes": 0,
+  "desc": "10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)"
+ },
+ {
+  "date": "2026-10-17T06:13:53",
+  "status": "complete",
+  "score": "31.62",
+  "ref": 57298529,
+  "bytes": 3816,
+  "desc": "Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10 levels on ft09/sc25/re86 (= v2f), 0 crashes (track-b/2026-10-16/smoke_eis.md). Commit = placeholder"
+ },
+ {
+  "date": "2026-10-17T05:41:02",
+  "status": "complete",
+  "score": "32.25",
+  "ref": 57297300,
+  "bytes": 3897,
+  "desc": "10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)"
+ },
+ {
+  "date": "2026-10-16T06:39:48",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57258538,
+  "bytes": 3811,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-15T04:41:30",
+  "status": "complete",
+  "score": "26.03",
+  "ref": 57216531,
+  "bytes": 3818,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T05:11:01",
+  "status": "complete",
+  "score": "30.05",
+  "ref": 57168017,
+  "bytes": 3764,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T01:50:55",
+  "status": "complete",
+  "score": "29.83",
+  "ref": 57163088,
+  "bytes": 3873,
+  "desc": "10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+ },
+ {
+  "date": "2026-10-13T16:42:53",
+  "status": "complete",
+  "score": "28.16",
+  "ref": 57150301,
+  "bytes": 3763,
+  "desc": "10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)"
+ },
+ {
+  "date": "2026-10-13T03:43:24",
+  "status": "complete",
+  "score": "28.03",
+  "ref": 57129298,
+  "bytes": 3817,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-12T13:38:11",
+  "status": "complete",
+  "score": "28.23",
+  "ref": 57108755,
+  "bytes": 3780,
+  "desc": "10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)"
+ },
+ {
+  "date": "2026-10-12T03:43:36",
+  "status": "complete",
+  "score": "30.77",
+  "ref": 57094303,
+  "bytes": 3836,
+  "desc": "ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending"
+ },
+ {
+  "date": "2026-10-11T00:22:14",
+  "status": "complete",
+  "score": "30.35",
+  "ref": 57056539,
+  "bytes": 3783,
+  "desc": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PASS (3 games, 9 levels, 0 crashes), B_THROUGHPUT_GATE PASS. Predicted band 28-36 (v1 family; v2b's 24."
+ },
+ {
+  "date": "2026-10-10T18:56:52",
+  "status": "complete",
+  "score": "32.05",
+  "ref": 57050666,
+  "bytes": 3814,
+  "desc": "10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+ },
+ {
+  "date": "2026-10-10T01:01:46",
+  "status": "complete",
+  "score": "24.50",
+  "ref": 57026424,
+  "bytes": 3790,
+  "desc": "10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork/arc26-b-dprime-v2b v1 | 2026-10-10T01:01:44Z"
+ },
+ {
+  "date": "2026-10-09T07:24:03",
+  "status": "error",
+  "score": "",
+  "ref": 56998560,
+  "bytes": 0,
+  "desc": "m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T06:15:52",
+  "status": "error",
+  "score": "",
+  "ref": 56995332,
+  "bytes": 0,
+  "desc": "m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T05:58:10",
+  "status": "complete",
+  "score": "33.50",
+  "ref": 56994560,
+  "bytes": 3798,
+  "desc": "track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside memos agree | kragglenote2forwork/arc26-b-dprime-clean-v1 v1 | 2026-10-09T05:58:08Z"
+ },
+ {
+  "date": "2026-10-08T09:36:07",
+  "status": "error",
+  "score": "",
+  "ref": 56947228,
+  "bytes": 0,
+  "desc": "m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placeholder commit"
+ },
+ {
+  "date": "2026-10-08T07:08:12",
+  "status": "complete",
+  "score": "23.65",
+  "ref": 56940861,
+  "bytes": 3856,
+  "desc": "Notebook arc-agi-3-m2-top-submission | Version 1"
+ },
+ {
+  "date": "2026-10-07T06:02:13",
+  "status": "complete",
+  "score": "29.21",
+  "ref": 56901959,
+  "bytes": 3865,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-07T05:18:10",
+  "status": "complete",
+  "score": "27.67",
+  "ref": 56900990,
+  "bytes": 3800,
+  "desc": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+ },
+ {
+  "date": "2026-10-06T17:16:03",
+  "status": "complete",
+  "score": "27.17",
+  "ref": 56886854,
+  "bytes": 3798,
+  "desc": "Notebook \ud83d\udd13 Fable & Astra Play ARC-3: Handbook + Harness | Version 2"
+ },
+ {
+  "date": "2026-10-06T10:09:21",
+  "status": "complete",
+  "score": "20.77",
+  "ref": 56877835,
+  "bytes": 3809,
+  "desc": "F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 game 5 min"
+ },
+ {
+  "date": "2026-10-05T18:17:34",
+  "status": "complete",
+  "score": "26.34",
+  "ref": 56859016,
+  "bytes": 3910,
+  "desc": "super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMPLETE Oct-5 16:17, checkpoint replay cap 40"
+ },
+ {
+  "date": "2026-10-05T04:49:21",
+  "status": "complete",
+  "score": "26.66",
+  "ref": 56842664,
+  "bytes": 3861,
+  "desc": "super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/25.84)"
+ },
+ {
+  "date": "2026-10-04T13:27:12",
+  "status": "complete",
+  "score": "25.84",
+  "ref": 56825114,
+  "bytes": 3814,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-04T13:26:15",
+  "status": "complete",
+  "score": "27.38",
+  "ref": 56825089,
+  "bytes": 3881,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-26T08:31:03",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57659975,
+  "bytes": 3411,
+  "desc": "Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds + Qwen3.5-27B-FP8 primary; GPU run complete all receipts ok; LB takes max)"
+ },
+ {
+  "date": "2026-10-25T11:17:09",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57627860,
+  "bytes": 3411,
+  "desc": "Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single delta vs Oct-24 anchor 26.47 ref 57594680; Y29 md5 d8dce0d88c5c parity, attachments identical): kee"
+ },
+ {
+  "date": "2026-10-24T12:45:01",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57594680,
+  "bytes": 3829,
+  "desc": "Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T11:30:01",
+  "status": "error",
+  "score": "",
+  "ref": 57592755,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T09:27:57",
+  "status": "error",
+  "score": "",
+  "ref": 57589586,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57584929/57585952/57586479/57587298/57588966)."
+ },
+ {
+  "date": "2026-10-24T09:02:40",
+  "status": "error",
+  "score": "",
+  "ref": 57588966,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/57585952/57586479/57587298)."
+ },
+ {
+  "date": "2026-10-24T07:56:39",
+  "status": "error",
+  "score": "",
+  "ref": 57587298,
+  "bytes": 0,
+  "desc": "Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels. Score 0.00 expected by design."
+ },
+ {
+  "date": "2026-10-24T07:22:17",
+  "status": "error",
+  "score": "",
+  "ref": 57586479,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver (F-1026). Base re-anchor."
+ },
+ {
+  "date": "2026-10-24T06:58:32",
+  "status": "error",
+  "score": "",
+  "ref": 57585952,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-24T06:16:20",
+  "status": "error",
+  "score": "",
+  "ref": 57584929,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-23T07:49:25",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57553794,
+  "bytes": 3411,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-22T08:42:57",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57517413,
+  "bytes": 3411,
+  "desc": "Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+ },
+ {
+  "date": "2026-10-21T05:03:26",
+  "status": "complete",
+  "score": "22.47",
+  "ref": 57466630,
+  "bytes": 3767,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132) + R3 game-over death ledger ON (IDEA#133). User-ordered combined build; "
+ },
+ {
+  "date": "2026-10-21T05:03:20",
+  "status": "complete",
+  "score": "22.33",
+  "ref": 57466626,
+  "bytes": 3805,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (ouyangruize 537B delta, patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132"
+ },
+ {
+  "date": "2026-10-20T05:52:16",
+  "status": "complete",
+  "score": "19.99",
+  "ref": 57424569,
+  "bytes": 3798,
+  "desc": "Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A."
+ },
+ {
+  "date": "2026-10-20T05:52:05",
+  "status": "complete",
+  "score": "26.73",
+  "ref": 57424564,
+  "bytes": 3794,
+  "desc": "Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)"
+ },
+ {
+  "date": "2026-10-19T07:16:59",
+  "status": "complete",
+  "score": "30.16",
+  "ref": 57387404,
+  "bytes": 3879,
+  "desc": "10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-specific; S15 needs rerun-envelope diagnosis before retry. A/B: B-side redraw."
+ },
+ {
+  "date": "2026-10-19T07:15:51",
+  "status": "complete",
+  "score": "27.84",
+  "ref": 57387375,
+  "bytes": 3819,
+  "desc": "10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next window. A/B: A=this on work acct; B acct burned by S15 v2 error 57373787 (version-specific submissio"
+ },
+ {
+  "date": "2026-10-19T00:06:55",
+  "status": "error",
+  "score": "",
+  "ref": 57373787,
+  "bytes": 0,
+  "desc": "10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet target >32.25"
+ },
+ {
+  "date": "2026-10-18T07:44:38",
+  "status": "complete",
+  "score": "28.59",
+  "ref": 57345341,
+  "bytes": 3796,
+  "desc": "10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+ },
+ {
+  "date": "2026-10-18T06:40:40",
+  "status": "error",
+  "score": "",
+  "ref": 57343317,
+  "bytes": 0,
+  "desc": "10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)"
+ },
+ {
+  "date": "2026-10-18T05:43:24",
+  "status": "error",
+  "score": "",
+  "ref": 57340883,
+  "bytes": 0,
+  "desc": "10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)"
+ },
+ {
+  "date": "2026-10-18T00:12:16",
+  "status": "complete",
+  "score": "28.83",
+  "ref": 57331028,
+  "bytes": 3846,
+  "desc": "Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; family text_H_EIS; E-154 draw discipline. Council 10-17: redraw the best-mu text daily. | kragglenote"
+ },
+ {
+  "date": "2026-10-18T00:00:16",
+  "status": "error",
+  "score": "",
+  "ref": 57329671,
+  "bytes": 0,
+  "desc": "10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)"
+ },
+ {
+  "date": "2026-10-17T06:13:53",
+  "status": "complete",
+  "score": "31.62",
+  "ref": 57298529,
+  "bytes": 3816,
+  "desc": "Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10 levels on ft09/sc25/re86 (= v2f), 0 crashes (track-b/2026-10-16/smoke_eis.md). Commit = placeholder"
+ },
+ {
+  "date": "2026-10-17T05:41:02",
+  "status": "complete",
+  "score": "32.25",
+  "ref": 57297300,
+  "bytes": 3897,
+  "desc": "10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)"
+ },
+ {
+  "date": "2026-10-16T06:39:48",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57258538,
+  "bytes": 3811,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-15T04:41:30",
+  "status": "complete",
+  "score": "26.03",
+  "ref": 57216531,
+  "bytes": 3818,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T05:11:01",
+  "status": "complete",
+  "score": "30.05",
+  "ref": 57168017,
+  "bytes": 3764,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T01:50:55",
+  "status": "complete",
+  "score": "29.83",
+  "ref": 57163088,
+  "bytes": 3873,
+  "desc": "10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+ },
+ {
+  "date": "2026-10-13T16:42:53",
+  "status": "complete",
+  "score": "28.16",
+  "ref": 57150301,
+  "bytes": 3763,
+  "desc": "10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)"
+ },
+ {
+  "date": "2026-10-13T03:43:24",
+  "status": "complete",
+  "score": "28.03",
+  "ref": 57129298,
+  "bytes": 3817,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-12T13:38:11",
+  "status": "complete",
+  "score": "28.23",
+  "ref": 57108755,
+  "bytes": 3780,
+  "desc": "10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)"
+ },
+ {
+  "date": "2026-10-12T03:43:36",
+  "status": "complete",
+  "score": "30.77",
+  "ref": 57094303,
+  "bytes": 3836,
+  "desc": "ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending"
+ },
+ {
+  "date": "2026-10-11T00:22:14",
+  "status": "complete",
+  "score": "30.35",
+  "ref": 57056539,
+  "bytes": 3783,
+  "desc": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PASS (3 games, 9 levels, 0 crashes), B_THROUGHPUT_GATE PASS. Predicted band 28-36 (v1 family; v2b's 24."
+ },
+ {
+  "date": "2026-10-10T18:56:52",
+  "status": "complete",
+  "score": "32.05",
+  "ref": 57050666,
+  "bytes": 3814,
+  "desc": "10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+ },
+ {
+  "date": "2026-10-10T01:01:46",
+  "status": "complete",
+  "score": "24.50",
+  "ref": 57026424,
+  "bytes": 3790,
+  "desc": "10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork/arc26-b-dprime-v2b v1 | 2026-10-10T01:01:44Z"
+ },
+ {
+  "date": "2026-10-09T07:24:03",
+  "status": "error",
+  "score": "",
+  "ref": 56998560,
+  "bytes": 0,
+  "desc": "m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T06:15:52",
+  "status": "error",
+  "score": "",
+  "ref": 56995332,
+  "bytes": 0,
+  "desc": "m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T05:58:10",
+  "status": "complete",
+  "score": "33.50",
+  "ref": 56994560,
+  "bytes": 3798,
+  "desc": "track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside memos agree | kragglenote2forwork/arc26-b-dprime-clean-v1 v1 | 2026-10-09T05:58:08Z"
+ },
+ {
+  "date": "2026-10-08T09:36:07",
+  "status": "error",
+  "score": "",
+  "ref": 56947228,
+  "bytes": 0,
+  "desc": "m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placeholder commit"
+ },
+ {
+  "date": "2026-10-08T07:08:12",
+  "status": "complete",
+  "score": "23.65",
+  "ref": 56940861,
+  "bytes": 3856,
+  "desc": "Notebook arc-agi-3-m2-top-submission | Version 1"
+ },
+ {
+  "date": "2026-10-07T06:02:13",
+  "status": "complete",
+  "score": "29.21",
+  "ref": 56901959,
+  "bytes": 3865,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-07T05:18:10",
+  "status": "complete",
+  "score": "27.67",
+  "ref": 56900990,
+  "bytes": 3800,
+  "desc": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+ },
+ {
+  "date": "2026-10-06T17:16:03",
+  "status": "complete",
+  "score": "27.17",
+  "ref": 56886854,
+  "bytes": 3798,
+  "desc": "Notebook \ud83d\udd13 Fable & Astra Play ARC-3: Handbook + Harness | Version 2"
+ },
+ {
+  "date": "2026-10-06T10:09:21",
+  "status": "complete",
+  "score": "20.77",
+  "ref": 56877835,
+  "bytes": 3809,
+  "desc": "F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 game 5 min"
+ },
+ {
+  "date": "2026-10-05T18:17:34",
+  "status": "complete",
+  "score": "26.34",
+  "ref": 56859016,
+  "bytes": 3910,
+  "desc": "super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMPLETE Oct-5 16:17, checkpoint replay cap 40"
+ },
+ {
+  "date": "2026-10-05T04:49:21",
+  "status": "complete",
+  "score": "26.66",
+  "ref": 56842664,
+  "bytes": 3861,
+  "desc": "super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/25.84)"
+ },
+ {
+  "date": "2026-10-04T13:27:12",
+  "status": "complete",
+  "score": "25.84",
+  "ref": 56825114,
+  "bytes": 3814,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-04T13:26:15",
+  "status": "complete",
+  "score": "27.38",
+  "ref": 56825089,
+  "bytes": 3881,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-26T08:31:03",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57659975,
+  "bytes": 3411,
+  "desc": "Oct-26 apex-v11 v1 NEW code (D1 gold attempt: champion dprime form + wastepack + dossier-v1 25 games + XPACK dossier-v2 categories/transform-tools/SFT/RL-seeds + Qwen3.5-27B-FP8 primary; GPU run complete all receipts ok; LB takes max)"
+ },
+ {
+  "date": "2026-10-25T11:17:09",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57627860,
+  "bytes": 3411,
+  "desc": "Oct-25 agi35-v1 config-swap NEW code (verbatim AGI Boys rank-51 LB 35.35 config: harness-default priority replaces our D-prime sim formula after council; single delta vs Oct-24 anchor 26.47 ref 57594680; Y29 md5 d8dce0d88c5c parity, attachments identical): kee"
+ },
+ {
+  "date": "2026-10-24T12:45:01",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57594680,
+  "bytes": 3829,
+  "desc": "Oct-24 dprime-fix-v3 attempt-8 (retry protocol: platform-advised resubmission after 7x pre-notebook system errors 06:20-11:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T11:30:01",
+  "status": "error",
+  "score": "",
+  "ref": 57592755,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 attempt-7 (retry protocol: platform-advised resubmission after 6x pre-notebook system errors 06:20-10:45Z; hardened anchor F-1025+F-1026; base re-anchor read of the 33.50 lineage)"
+ },
+ {
+  "date": "2026-10-24T09:27:57",
+  "status": "error",
+  "score": "",
+  "ref": 57589586,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025+F-1026 hardened anchor): base re-anchor. Platform-advised resubmission #6 during scoring-rerun outage (system errors on 57584929/57585952/57586479/57587298/57588966)."
+ },
+ {
+  "date": "2026-10-24T09:02:40",
+  "status": "error",
+  "score": "",
+  "ref": 57588966,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v3 NEW code (F-1025 gateway guard + F-1026 wheelhouse resolver): base re-anchor, retry after queue-crunch system errors (refs 57584929/57585952/57586479/57587298)."
+ },
+ {
+  "date": "2026-10-24T07:56:39",
+  "status": "error",
+  "score": "",
+  "ref": 57587298,
+  "bytes": 0,
+  "desc": "Oct-24 F-1028 diagnostic probe (CPU, placeholder): tests whether competition scoring reruns execute at all after 3 pre-notebook system errors on anchor kernels. Score 0.00 expected by design."
+ },
+ {
+  "date": "2026-10-24T07:22:17",
+  "status": "error",
+  "score": "",
+  "ref": 57586479,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (retry per platform advice after system error on ref 57585952): gateway-aware RUN_FULL guard (F-1025) + wheelhouse layout resolver (F-1026). Base re-anchor."
+ },
+ {
+  "date": "2026-10-24T06:58:32",
+  "status": "error",
+  "score": "",
+  "ref": 57585952,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code (A paired anchor, identical to B): gateway-aware RUN_FULL guard (F-1025). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-24T06:16:20",
+  "status": "error",
+  "score": "",
+  "ref": 57584929,
+  "bytes": 0,
+  "desc": "Oct-24 dprime-fix-v2 NEW code: gateway-aware RUN_FULL guard (F-1025; commit no longer errors on dead gateway host). Base re-anchor after F-1024 double STRUCT-0."
+ },
+ {
+  "date": "2026-10-23T07:49:25",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57553794,
+  "bytes": 3411,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-22T08:42:57",
+  "status": "complete",
+  "score": "0.00",
+  "ref": 57517413,
+  "bytes": 3411,
+  "desc": "Oct-22 memsolve NEW code: 33.50-lineage clean D-prime + solved-level memory (lalalia9 v19 port, cache-safe); single lever"
+ },
+ {
+  "date": "2026-10-21T05:03:26",
+  "status": "complete",
+  "score": "22.47",
+  "ref": 57466630,
+  "bytes": 3767,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build, identical to A): apex-dlex core + animation-aware no-op guard (patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132) + R3 game-over death ledger ON (IDEA#133). User-ordered combined build; "
+ },
+ {
+  "date": "2026-10-21T05:03:20",
+  "status": "complete",
+  "score": "22.33",
+  "ref": 57466626,
+  "bytes": 3805,
+  "desc": "Oct-21 leviathan-v1 NEW code (combined build): apex-dlex core (zy-patch d8dce0d88c5c + D' + parquet net + dual-layout resolver) + animation-aware no-op guard (ouyangruize 537B delta, patch md5 315bbbf23450) + PACE=1 + TAIL_FADE 0.4 + lexicon-view OFF (IDEA#132"
+ },
+ {
+  "date": "2026-10-20T05:52:16",
+  "status": "complete",
+  "score": "19.99",
+  "ref": 57424569,
+  "bytes": 3798,
+  "desc": "Oct-20 apex-dlex B v2 NEW code (M2S + D-prime + lexicon). First lexicon-enabled draw for account B. A/B pair with account A."
+ },
+ {
+  "date": "2026-10-20T05:52:05",
+  "status": "complete",
+  "score": "26.73",
+  "ref": 57424564,
+  "bytes": 3794,
+  "desc": "Oct-20 apex-dlex A v3 NEW code (M2S + D-prime + lexicon)"
+ },
+ {
+  "date": "2026-10-19T07:16:59",
+  "status": "complete",
+  "score": "30.16",
+  "ref": 57387404,
+  "bytes": 3879,
+  "desc": "10-19: best-EV redraw = eis-recovery-dh v1 (draws 29.83/32.25/28.59, mu 30.2 n=3; account best COMPLETE recipe). S15 v2 error 57373787 isolated as version-specific; S15 needs rerun-envelope diagnosis before retry. A/B: B-side redraw."
+ },
+ {
+  "date": "2026-10-19T07:15:51",
+  "status": "complete",
+  "score": "27.84",
+  "ref": 57387375,
+  "bytes": 3819,
+  "desc": "10-19: best-mu redraw = clean D-prime (33.50/32.05/28.23/28.16, mu 30.5 n=4; account best). Merge-research day: lexicon+dfranzen-M2+D' hybrid in build for next window. A/B: A=this on work acct; B acct burned by S15 v2 error 57373787 (version-specific submissio"
+ },
+ {
+  "date": "2026-10-19T00:06:55",
+  "status": "error",
+  "score": "",
+  "ref": 57373787,
+  "bytes": 0,
+  "desc": "10-19: EIS S15 chamber v2 (streams 13->15, mamba 80->92 5-cell surgery; packet 61d225c6, inner nb 518a8c54); family base 36.49 uradkr / 32.25 dh v1; ratchet target >32.25"
+ },
+ {
+  "date": "2026-10-18T07:44:38",
+  "status": "complete",
+  "score": "28.59",
+  "ref": 57345341,
+  "bytes": 3796,
+  "desc": "10-18 exp: resubmit PROVEN v1 (358070135, scored 32.25) to isolate version-vs-account failure"
+ },
+ {
+  "date": "2026-10-18T06:40:40",
+  "status": "error",
+  "score": "",
+  "ref": 57343317,
+  "bytes": 0,
+  "desc": "10-18 retake2: eis-recovery-dh v3 (attachments restored: 2 datasets + drafter + intel model; fixes empty-source v2 errors 57329671/57340883)"
+ },
+ {
+  "date": "2026-10-18T05:43:24",
+  "status": "error",
+  "score": "",
+  "ref": 57340883,
+  "bytes": 0,
+  "desc": "10-18 retake: eis-recovery-dh v2 (system-error retake of 57329671; same byte-exact 36.49 recipe)"
+ },
+ {
+  "date": "2026-10-18T00:12:16",
+  "status": "complete",
+  "score": "28.83",
+  "ref": 57331028,
+  "bytes": 3846,
+  "desc": "Oct-18: second consecutive draw of the EIS text (text H) per the pre-registered two-draw rule; first draw ref 57298529 = 31.62 (IN-BAND 27-38). Predict 27-38; family text_H_EIS; E-154 draw discipline. Council 10-17: redraw the best-mu text daily. | kragglenote"
+ },
+ {
+  "date": "2026-10-18T00:00:16",
+  "status": "error",
+  "score": "",
+  "ref": 57329671,
+  "bytes": 0,
+  "desc": "10-18: eis-recovery-dh v2 redraw = uradkr 36.49 release fastpack (byte-exact sha e0eb7750; draws 29.83/32.25; ratchet target >32.25)"
+ },
+ {
+  "date": "2026-10-17T06:13:53",
+  "status": "complete",
+  "score": "31.62",
+  "ref": 57298529,
+  "bytes": 3816,
+  "desc": "Oct-17: first attributed draw of the user's EIS text (text H; user-claimed 36 [C]). Forced-rerun 3-game smoke 06:07 UTC: all guards PASS, server READY 720 s, 10 levels on ft09/sc25/re86 (= v2f), 0 crashes (track-b/2026-10-16/smoke_eis.md). Commit = placeholder"
+ },
+ {
+  "date": "2026-10-17T05:41:02",
+  "status": "complete",
+  "score": "32.25",
+  "ref": 57297300,
+  "bytes": 3897,
+  "desc": "10-17: eis-recovery-dh redraw (draws: 36.49 uradkr / 29.83 dh; best-EV proven recipe)"
+ },
+ {
+  "date": "2026-10-16T06:39:48",
+  "status": "complete",
+  "score": "26.47",
+  "ref": 57258538,
+  "bytes": 3811,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-15T04:41:30",
+  "status": "complete",
+  "score": "26.03",
+  "ref": 57216531,
+  "bytes": 3818,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T05:11:01",
+  "status": "complete",
+  "score": "30.05",
+  "ref": 57168017,
+  "bytes": 3764,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-14T01:50:55",
+  "status": "complete",
+  "score": "29.83",
+  "ref": 57163088,
+  "bytes": 3873,
+  "desc": "10-14: eis-recovery-dh = uradkr 36.49 release fastpack (byte-exact sha e0eb7750, 28 pinned inner cells, 9h envelope)"
+ },
+ {
+  "date": "2026-10-13T16:42:53",
+  "status": "complete",
+  "score": "28.16",
+  "ref": 57150301,
+  "bytes": 3763,
+  "desc": "10-13: dh-e001-v1 = clean D' + E01 deadline watchdog + provenance manifest (Master Plan E00+E01; harness+D' byte-identical to proven 33.50)"
+ },
+ {
+  "date": "2026-10-13T03:43:24",
+  "status": "complete",
+  "score": "28.03",
+  "ref": 57129298,
+  "bytes": 3817,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-12T13:38:11",
+  "status": "complete",
+  "score": "28.23",
+  "ref": 57108755,
+  "bytes": 3780,
+  "desc": "10-12: clean D-prime redraw (33.50 on 10-09 work / 32.05 on 10-10 dasshovon; best-only daily)"
+ },
+ {
+  "date": "2026-10-12T03:43:36",
+  "status": "complete",
+  "score": "30.77",
+  "ref": 57094303,
+  "bytes": 3836,
+  "desc": "ARC-forwork: frozen COMPLETE source evaluation; arc3 19cb10719279; performance attribution pending"
+ },
+ {
+  "date": "2026-10-11T00:22:14",
+  "status": "complete",
+  "score": "30.35",
+  "ref": 57056539,
+  "bytes": 3783,
+  "desc": "10-11: v2d v2 = v1's scored-rerun policy (no E-133 soft end/watchdog/H1) + E-135 mount resolver; smoke 10-10 15:08: B_PREFLIGHT PASS (D' live), B_SMOKE_GATE PASS (3 games, 9 levels, 0 crashes), B_THROUGHPUT_GATE PASS. Predicted band 28-36 (v1 family; v2b's 24."
+ },
+ {
+  "date": "2026-10-10T18:56:52",
+  "status": "complete",
+  "score": "32.05",
+  "ref": 57050666,
+  "bytes": 3814,
+  "desc": "10-10: resubmit campaign best = clean D-prime (33.50 on 10-09, lwq255 fail-open guarded D' + path prio)"
+ },
+ {
+  "date": "2026-10-10T01:01:46",
+  "status": "complete",
+  "score": "24.50",
+  "ref": 57026424,
+  "bytes": 3790,
+  "desc": "10-10: v2b = v2 + E-135 mount resolver (clean D' + robustness, 10 streams); v3 rejected by its KV gate; see track-b/2026-10-10/smoke_v3.md | kragglenote2forwork/arc26-b-dprime-v2b v1 | 2026-10-10T01:01:44Z"
+ },
+ {
+  "date": "2026-10-09T07:24:03",
+  "status": "error",
+  "score": "",
+  "ref": 56998560,
+  "bytes": 0,
+  "desc": "m2top v3: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T06:15:52",
+  "status": "error",
+  "score": "",
+  "ref": 56995332,
+  "bytes": 0,
+  "desc": "m2top v2: M2S + D-prime priority + guards-from-L1 + repeat guards + UNDO + expected-result clause + escalation tiers"
+ },
+ {
+  "date": "2026-10-09T05:58:10",
+  "status": "complete",
+  "score": "33.50",
+  "ref": 56994560,
+  "bytes": 3798,
+  "desc": "track-b 2026-10-09: clean D-prime (lwq255 fail-open guarded D' + path fallbacks, one changed layer vs M2S); first hash-verified D' draw on B; inside+outside memos agree | kragglenote2forwork/arc26-b-dprime-clean-v1 v1 | 2026-10-09T05:58:08Z"
+ },
+ {
+  "date": "2026-10-08T09:36:07",
+  "status": "error",
+  "score": "",
+  "ref": 56947228,
+  "bytes": 0,
+  "desc": "m2top draw1: dfranzen M2S + D-prime slot priority (31.54/31.93 recipe) + guards-from-L1 + frame-diff + level-inventory + repeat-state-guard; quota-free placeholder commit"
+ },
+ {
+  "date": "2026-10-08T07:08:12",
+  "status": "complete",
+  "score": "23.65",
+  "ref": 56940861,
+  "bytes": 3856,
+  "desc": "Notebook arc-agi-3-m2-top-submission | Version 1"
+ },
+ {
+  "date": "2026-10-07T06:02:13",
+  "status": "complete",
+  "score": "29.21",
+  "ref": 56901959,
+  "bytes": 3865,
+  "desc": ""
+ },
+ {
+  "date": "2026-10-07T05:18:10",
+  "status": "complete",
+  "score": "27.67",
+  "ref": 56900990,
+  "bytes": 3800,
+  "desc": "super v2 config re-draw #2: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer (draw #1 = 27.38, current LB best)"
+ },
+ {
+  "date": "2026-10-06T17:16:03",
+  "status": "complete",
+  "score": "27.17",
+  "ref": 56886854,
+  "bytes": 3798,
+  "desc": "Notebook \ud83d\udd13 Fable & Astra Play ARC-3: Handbook + Harness | Version 2"
+ },
+ {
+  "date": "2026-10-06T10:09:21",
+  "status": "complete",
+  "score": "20.77",
+  "ref": 56877835,
+  "bytes": 3809,
+  "desc": "F+D: dfranzen M2S base (concurrency 120, 532min/game, priority scheduling) + fable layer (31.73 recipe) + osaka D-prime slot priority (31.54 recipe); demo 1 game 5 min"
+ },
+ {
+  "date": "2026-10-05T18:17:34",
+  "status": "complete",
+  "score": "26.34",
+  "ref": 56859016,
+  "bytes": 3910,
+  "desc": "super v3 full: S1 level-replay on top of super v2 stack (death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer); commit run COMPLETE Oct-5 16:17, checkpoint replay cap 40"
+ },
+ {
+  "date": "2026-10-05T04:49:21",
+  "status": "complete",
+  "score": "26.66",
+  "ref": 56842664,
+  "bytes": 3861,
+  "desc": "super v2 re-roll (draw 3): M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; best config by Oct-4 scores (27.38/25.84)"
+ },
+ {
+  "date": "2026-10-04T13:27:12",
+  "status": "complete",
+  "score": "25.84",
+  "ref": 56825114,
+  "bytes": 3814,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ },
+ {
+  "date": "2026-10-04T13:26:15",
+  "status": "complete",
+  "score": "27.38",
+  "ref": 56825089,
+  "bytes": 3881,
+  "desc": "super v2 full: M2S base + death-ledger pair + dead-reasoning stub + effort-ladder + reset exposure + act-forcer; smoke LFL 17lv/5g@12m vs 15 baseline (v1), ft09 6/6@11m"
+ }
+]

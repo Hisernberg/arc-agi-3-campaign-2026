@@ -1,0 +1,133 @@
+{
+ "slot1": {
+  "ref": 56842535,
+  "score": 32.64,
+  "note": "Runbook-locked",
+  "label": "v19 draw 32.64 (slot-1 anchor, Runbook-locked)"
+ },
+ "slot2": {
+  "ref": 56901303,
+  "score": 31.81,
+  "label": "lb33-89-replica (DIFFERENT code family; operator-ratified 22:22 Dhaka Nov-1 over runbook fallback 57744816/31.39)",
+  "basis": "operator ratification + strict top-2 by score"
+ },
+ "silver_zone": false,
+ "top2_strict_by_score": [
+  {
+   "ref": 56842535,
+   "score": 32.64
+  },
+  {
+   "ref": 56901303,
+   "score": 31.81
+  }
+ ],
+ "scored_outside_named_set": [
+  {
+   "ref": 56901303,
+   "score": 31.81,
+   "url": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030"
+  },
+  {
+   "ref": 56864722,
+   "score": 31.39,
+   "url": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957"
+  },
+  {
+   "ref": 57553818,
+   "score": 30.97,
+   "url": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882"
+  },
+  {
+   "ref": 57168096,
+   "score": 30.97,
+   "url": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030"
+  },
+  {
+   "ref": 56994276,
+   "score": 30.97,
+   "url": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957"
+  }
+ ],
+ "band_n": 9,
+ "band_mean": 29.08,
+ "pb": 32.64,
+ "silver_line": 33.89,
+ "url_of": {
+  "57829160": "/code/kragglenote2forwork/arc26-nvarc-v40-r-council-refill-redraw?scriptVersionId=362907646",
+  "57808321": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355159878",
+  "57744816": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355159878",
+  "57688553": "/code/kragglenote2forwork/arc26-nvarc-v41-tb64-serve-envelope?scriptVersionId=362673667",
+  "57662636": "/code/kragglenote2forwork/arc26-nvarc-v39-proven-qwen3-8-27b-leg?scriptVersionId=362414934",
+  "57630786": "/code/kragglenote2forwork/arc26-nvarc-v37-exp?scriptVersionId=361765121",
+  "57590746": "/code/dasshovon/arc26-nvarc-v36b?scriptVersionId=361733568",
+  "57553818": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882",
+  "57533556": "/code/dasshovon/arc26-nvarc-v35?scriptVersionId=361189362",
+  "57481575": "/code/dasshovon/arc26-nvarc-v34?scriptVersionId=360747854",
+  "57425154": "/code/kragglenote2forwork/arc26-nvarc-v32d?scriptVersionId=359604388",
+  "57386556": "/code/kragglenote2forwork/arc26-nvarc-v32d?scriptVersionId=359604388",
+  "57331047": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=357383560",
+  "57297386": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=357383560",
+  "57256614": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "57216221": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882",
+  "57168096": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "57129658": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=357691377",
+  "57129343": "/code/kragglenote2forwork/arc2-v5-seed17-paired-20261013?scriptVersionId=357542545",
+  "57109880": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957",
+  "57094300": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "57056930": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=357017488",
+  "57040409": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=357017488",
+  "57039112": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=357010357",
+  "57006700": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56994276": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957",
+  "56971602": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56971599": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957",
+  "56901303": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56901300": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957",
+  "56864726": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56864722": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355512957",
+  "56842539": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56842535": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355159878",
+  "56829594": "/code/kragglenote2forwork/arc-agi2-highscore-lb33-89-replica?scriptVersionId=355160030",
+  "56829592": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=355159878",
+  "56767271": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882",
+  "56740775": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882",
+  "56703592": "/code/kragglenote2forwork/failed-in-aimo?scriptVersionId=347302882",
+  "56680358": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=351033118",
+  "56655570": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=352643043",
+  "56641883": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=351033118",
+  "56641422": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=352643043",
+  "56621538": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=353329650",
+  "56605588": "/code/kragglenote2forwork/sb-v1?scriptVersionId=353083414",
+  "56589575": "/code/kragglenote2forwork/sb-v1?scriptVersionId=353083414",
+  "56581590": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=352916685",
+  "56549894": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=352643043",
+  "56524795": "/code/dasshovon/arc26-nvarc-v1?scriptVersionId=352411591",
+  "56495470": "/code/kragglenote2forwork/arc26-nvarc-v3-rlharness?scriptVersionId=351033118"
+ },
+ "generated_utc": "2026-11-01T17:23:43.398120+00:00",
+ "entries_scanned": 50,
+ "ui_steps": [
+  "kaggle.com -> arc-prize-2026-arc-agi-2 -> 'My Submissions' (signed in on a team account)",
+  "check 'Select for Final Score' on ref 56842535 (v19 draw 32.64 (slot-1 anchor, Runbook-locked))",
+  "check 'Select for Final Score' on ref 57744816 (v19 redraw 31.39 (slot-2 fallback))",
+  "confirm exactly TWO checkboxes are set (ARC allows 2 finals per team) BEFORE the lock"
+ ],
+ "thresholds": {
+  "diversity_min": 29.0,
+  "silver": 33.89,
+  "pb": 32.64
+ },
+ "ratified": true,
+ "clicks": [
+  {
+   "ref": 56842535,
+   "score": 32.64
+  },
+  {
+   "ref": 56901303,
+   "score": 31.81
+  }
+ ],
+ "refreshed_utc": "2026-11-01T17:23:42Z"
+}

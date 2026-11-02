@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-10-12",
+  "existing_contracts": 27,
+  "passed": 27,
+  "elapsed_seconds": 2.94,
+  "model_runs": 0,
+  "gpu_runs": 0,
+  "submission_runs": 0,
+  "scripted_lifecycle_new_runs": 0,
+  "log": "/home/urad/arc-forwork/arc3/evidence/checked_helpers_cpu.log",
+  "scope": "Existing meaningful checked-helper and score-accounting CPUcontracts; no learned-model quality claim"
+}

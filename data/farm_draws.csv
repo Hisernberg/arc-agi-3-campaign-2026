@@ -1,0 +1,7 @@
+draw,date,score,note
+port v1,2026-10-28,33.86,PB; source config mean 33.7
+redraw,2026-10-29,30.38,
+farm draw 4,2026-10-30,30.86,
+farm draw 5,2026-10-31,28.74,
+farm draw 6,2026-11-01,31.98,
+farm draw 7,2026-11-02,32.94,final-day slot
